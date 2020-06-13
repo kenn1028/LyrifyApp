@@ -427,18 +427,18 @@ class SpotifyAPI(object):
 
 #### void main() ####
 
-spotify = SpotifyAPI(client_id = client_id, client_secret = client_secret)
-
-spotify.get_scopes()
-spotify.auth_code = input("Enter Code: ")
-spotify.perform_auth()
+# spotify = SpotifyAPI(client_id = client_id, client_secret = client_secret)
+#
+# spotify.get_scopes()
+# spotify.auth_code = input("Enter Code: ")
+# spotify.perform_auth()
 
 ### Current Song Test ###
 
-while True:
-    data = spotify.get_current_song()
-    for k in data:
-        print(k, data[k])
+# while True:
+#     data = spotify.get_current_song()
+#     for k in data:
+#         print(k, data[k])
     #print(spotify.access_token, '/n', spotify.refresh_token)
 
 ### Playlist Scrape Test ###
