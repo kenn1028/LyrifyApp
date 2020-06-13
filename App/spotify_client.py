@@ -1,12 +1,17 @@
 '''
 Spotify Lyrics Player Project (June 2020)
 
+> Spotify Web API Client Class <
+
 References:
 Authorization Guide using Authorization Code flow:  https://developer.spotify.com/documentation/general/guides/authorization-guide/#authorization-code-flow
 
 Authorization Scopes: https://developer.spotify.com/documentation/general/guides/scopes/
 
 https://stackoverflow.com/questions/51842280/spotify-api-scopes-not-being-recognized-not-able-to-access-user-info
+
+Dependencies:
+pip install requests
 '''
 
 import base64
@@ -57,7 +62,7 @@ class SpotifyAPI(object):
         # redirect_url = f"{auth_url}?{params}"
         # return redirect_url
         #print(f"{self.auth_url}?{params}")
-        webbrowser.open_new(f"{self.auth_url}?{params}")
+        webbrowser.open(f"{self.auth_url}?{params}")
 
     # def get_playback_scope(self):
     #     scopes = 'user-read-currently-playing user-read-playback-state'
