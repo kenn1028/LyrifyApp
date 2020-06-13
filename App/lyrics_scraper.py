@@ -8,6 +8,8 @@ pip install beautifulsoup4
 pip install requests
 
 References:
+https://www.pluralsight.com/guides/extracting-data-html-beautifulsoup
+
 https://stackoverflow.com/questions/8551230/how-can-i-get-information-from-an-a-href-tag-within-div-tags-with-beautifuls
 
 https://www.stechies.com/compare-lists-python-using-set-cmp-function/
@@ -123,4 +125,4 @@ class ColorCodedLyrics(object):
 lyrics = ColorCodedLyrics(song_name = "Ding Ding Dong", artist_name = "LOONA")
 
 # lyrics.get_url()
-lyrics.get_lyrics()
+# lyrics.get_lyrics()

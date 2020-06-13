@@ -36,7 +36,7 @@ class SpotifyAPI(object):
     auth_url = 'https://accounts.spotify.com/authorize'
     auth_code = None
 
-    def __init__(self, client_id, client_secret, *args, **kwargs):
+    def __init__(self, client_id = '835cea40f4bd4eec8809798ee62f1cf9', client_secret = '06e06fd5087246f7b644f28fa6d9924c', *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.client_id = client_id
         self.client_secret = client_secret
