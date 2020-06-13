@@ -180,6 +180,7 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
         </div>
        </nav>
        <!-- #site-navigation -->
+
        <div class="col-lg-3 col-10">
         <div class="socials d-flex justify-content-end">
          <a href="https://www.facebook.com/ColorCodedLyrics/" target="_blank">
@@ -248,6 +249,11 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
      (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
    </div>
+
+
+
+
+
    <div class="site-content" id="content">
     <div class="container">
      <div class="row">
@@ -407,7 +413,9 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
               Translation
              </th>
             </tr>
+
             <tr>
+
              <td>
               <span style="color: #ec008c">
                itjana isanghae na
@@ -677,6 +685,8 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
                </span>
               </p>
              </td>
+
+
              <td>
               <span style="color: #ec008c">
                있잖아 이상해 나
