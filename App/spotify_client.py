@@ -435,27 +435,27 @@ spotify.perform_auth()
 
 ### Current Song Test ###
 
-# while True:
-#     data = spotify.get_current_song()
-#     for k in data:
-#         print(k, data[k])
-#     #print(spotify.access_token, '/n', spotify.refresh_token)
+while True:
+    data = spotify.get_current_song()
+    for k in data:
+        print(k, data[k])
+    #print(spotify.access_token, '/n', spotify.refresh_token)
 
 ### Playlist Scrape Test ###
 
-list = spotify.get_playlist_tracks("30lnYh0901lFkD3ev6GwYe")
-for i in list: print(i)
-print('Number of songs: ', len(list), "\n")
-
-list = spotify.get_current_playlists()
-print("Current User's playlists")
-for i in list: print(i)
-
-user_id = '2263xw43fnspn6cpngqylgszq'
-list = spotify.get_user_playlists(user_id = user_id)
-print('\n')
-print(user_id + "'s playlists")
-for i in list: print(i)
+# list = spotify.get_playlist_tracks("30lnYh0901lFkD3ev6GwYe")
+# for i in list: print(i)
+# print('Number of songs: ', len(list), "\n")
+#
+# list = spotify.get_current_playlists()
+# print("Current User's playlists")
+# for i in list: print(i)
+#
+# user_id = '2263xw43fnspn6cpngqylgszq'
+# list = spotify.get_user_playlists(user_id = user_id)
+# print('\n')
+# print(user_id + "'s playlists")
+# for i in list: print(i)
 
 # spotify:user:uy6wcttkt4ycnqhe7gynrl3rq kenn
 # 2263xw43fnspn6cpngqylgszq chai

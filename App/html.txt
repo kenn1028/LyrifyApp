@@ -8,39 +8,44 @@
   <meta content="AotUsw-A6bVJM85c4DYhLJgYU2kGqiIQ_Zh1DxqNvOY" name="google-site-verification"/>
   <meta content="4f4ee68e06168f86c5b6bcd5bba94f45c7827c8c" name="naver-site-verification"/>
   <!-- This site is optimized with the Yoast SEO plugin v14.3 - https://yoast.com/wordpress/plugins/seo/ -->
-
   <title>
-   You searched for Girl's Talk LOONA » Color Coded Lyrics
+   LOONA - Ding Ding Dong (땡땡땡) Lyrics » Color Coded Lyrics | Lyrics at CCL
   </title>
-
-  <meta content="noindex, follow" name="robots"/>
+  <meta content="LOONA - Ding Ding Dong (땡땡땡) LyricsLOONA (이달의 소녀) Romanization, Korean, Translation. Color coded Lyrics" name="description"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="googlebot"/>
+  <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="bingbot"/>
+  <link href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng" rel="canonical"/>
   <meta content="en_US" property="og:locale"/>
   <meta content="article" property="og:type"/>
-  <meta content="You searched for Girl's Talk LOONA » Color Coded Lyrics" property="og:title"/>
-  <meta content="https://colorcodedlyrics.com/search/Girl's Talk LOONA" property="og:url"/>
+  <meta content="LOONA - Ding Ding Dong (땡땡땡) Lyrics » Color Coded Lyrics | Lyrics at CCL" property="og:title"/>
+  <meta content="LOONA - Ding Ding Dong (땡땡땡) LyricsLOONA (이달의 소녀) Romanization, Korean, Translation. Color coded Lyrics" property="og:description"/>
+  <meta content="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng" property="og:url"/>
   <meta content="Color Coded Lyrics" property="og:site_name"/>
+  <meta content="https://www.facebook.com/ColorCodedLyrics/" property="article:publisher"/>
+  <meta content="2020-02-05T16:51:43+00:00" property="article:published_time"/>
+  <meta content="2020-06-05T09:43:17+00:00" property="article:modified_time"/>
+  <meta content="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/02/loona-so-what.jpg?fit=1000%2C1000&amp;ssl=1" property="og:image"/>
+  <meta content="1000" property="og:image:width"/>
+  <meta content="1000" property="og:image:height"/>
   <meta content="summary" name="twitter:card"/>
-  <meta content="You searched for Girl's Talk LOONA » Color Coded Lyrics" name="twitter:title"/>
+  <meta content="@rezldy" name="twitter:creator"/>
   <meta content="@CodedLyrics" name="twitter:site"/>
-
   <script class="yoast-schema-graph" type="application/ld+json">
-   {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":["CollectionPage","SearchResultsPage"],"@id":"#webpage","url":"","name":"You searched for Girl&#039;s Talk LOONA &raquo; Color Coded Lyrics","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"breadcrumb":{"@id":"#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/search/Girl%27s+Talk+LOONA","url":"https://colorcodedlyrics.com/search/Girl%27s+Talk+LOONA","name":"You searched for Girl&#039;s Talk LOONA"}}]}]}
+   {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://colorcodedlyrics.com/#organization","name":"Color Coded Lyrics","url":"https://colorcodedlyrics.com/","sameAs":["https://www.facebook.com/ColorCodedLyrics/","https://twitter.com/CodedLyrics"],"logo":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#logo","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/05/ccl-vector-2020.png?fit=3930%2C2384&ssl=1","width":3930,"height":2384,"caption":"Color Coded Lyrics"},"image":{"@id":"https://colorcodedlyrics.com/#logo"}},{"@type":"WebSite","@id":"https://colorcodedlyrics.com/#website","url":"https://colorcodedlyrics.com/","name":"Color Coded Lyrics","description":"","publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://colorcodedlyrics.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#primaryimage","inLanguage":"en-US","url":"https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/02/loona-so-what.jpg?fit=1000%2C1000&ssl=1","width":1000,"height":1000},{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#webpage","url":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng","name":"LOONA - Ding Ding Dong (\ub561\ub561\ub561) Lyrics &raquo; Color Coded Lyrics | Lyrics at CCL","isPartOf":{"@id":"https://colorcodedlyrics.com/#website"},"primaryImageOfPage":{"@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#primaryimage"},"datePublished":"2020-02-05T16:51:43+00:00","dateModified":"2020-06-05T09:43:17+00:00","description":"LOONA - Ding Ding Dong (\ub561\ub561\ub561) LyricsLOONA (\uc774\ub2ec\uc758 \uc18c\ub140) Romanization, Korean, Translation. Color coded Lyrics","breadcrumb":{"@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng"]}]},{"@type":"BreadcrumbList","@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/","url":"https://colorcodedlyrics.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn","url":"https://colorcodedlyrics.com/category/krn","name":"KOREAN"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/category/krn/loona-idalui-sonyeo","url":"https://colorcodedlyrics.com/category/krn/loona-idalui-sonyeo","name":"LOONA (\uc774\ub2ec\uc758 \uc18c\ub140)"}},{"@type":"ListItem","position":4,"item":{"@type":"WebPage","@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng","url":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng","name":"LOONA &#8211; Ding Ding Dong (\ub561\ub561\ub561)"}}]},{"@type":"Article","@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#article","isPartOf":{"@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#webpage"},"author":{"@id":"https://colorcodedlyrics.com/#/schema/person/cc5c7171d668d421b0c903be8df2b209"},"headline":"LOONA &#8211; Ding Ding Dong (\ub561\ub561\ub561)","datePublished":"2020-02-05T16:51:43+00:00","dateModified":"2020-06-05T09:43:17+00:00","commentCount":"11","mainEntityOfPage":{"@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#webpage"},"publisher":{"@id":"https://colorcodedlyrics.com/#organization"},"image":{"@id":"https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#primaryimage"},"keywords":"Ding Ding DOng,LOONA,\ub561\ub561\ub561","articleSection":"KOREAN,LOONA (\uc774\ub2ec\uc758 \uc18c\ub140)","inLanguage":"en-US"},{"@type":["Person"],"@id":"https://colorcodedlyrics.com/#/schema/person/cc5c7171d668d421b0c903be8df2b209","name":"eja","image":{"@type":"ImageObject","@id":"https://colorcodedlyrics.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/15ff590daa820be8b35aba610dec1b5b?s=96&d=mm&r=pg","caption":"eja"},"description":"love playing Minecraft","sameAs":["https://twitter.com/rezldy"]}]}
   </script>
-
   <!-- / Yoast SEO plugin. -->
   <link href="//secure.gravatar.com" rel="dns-prefetch"/>
   <link href="//s.w.org" rel="dns-prefetch"/>
   <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
   <link href="https://colorcodedlyrics.com/feed" rel="alternate" title="Color Coded Lyrics » Feed" type="application/rss+xml"/>
   <link href="https://colorcodedlyrics.com/comments/feed" rel="alternate" title="Color Coded Lyrics » Comments Feed" type="application/rss+xml"/>
-  <link href="https://colorcodedlyrics.com/search/Girl%27s+Talk+LOONA/feed/rss2/" rel="alternate" title="Color Coded Lyrics » Search Results for “Girl's Talk LOONA” Feed" type="application/rss+xml"/>
-
+  <link href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng/feed" rel="alternate" title="Color Coded Lyrics » LOONA – Ding Ding Dong (땡땡땡) Comments Feed" type="application/rss+xml"/>
   <script type="text/javascript">
    window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/colorcodedlyrics.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
 			/*! This file is auto-generated */
 			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
   </script>
-
   <style type="text/css">
    img.wp-smiley,
 img.emoji {
@@ -55,13 +60,10 @@ img.emoji {
 	padding: 0 !important;
 }
   </style>
-
-  <link href="https://colorcodedlyrics.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/esfahan/css/bootstrap/bootstrap.min.css,wp-includes/css/dist/block-library/style.min.css,wp-content/plugins/captcha/css/front_end_style.css,wp-content/plugins/captcha/css/desktop_style.css,wp-content/plugins/contact-form-plugin/css/form_style.css,wp-content/plugins/wp-poll/assets/tool-tip.min.css,wp-content/plugins/wp-poll/assets/front/css/checkbox.css,wp-content/plugins/wp-poll/assets/front/css/style.css,wp-content/plugins/wp-trending-post-slider-and-widget/assets/css/slick.css,wp-content/plugins/wp-trending-post-slider-and-widget/assets/css/wtpsw-public.css,wp-content/plugins/wp-pagenavi/pagenavi-css.css,wp-content/plugins/jetpack/modules/likes/style.css,wp-content/themes/esfahan/css/font-awesome/css/font-awesome.min.css,wp-content/themes/esfahan/style.css,wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/style.css,wp-content/plugins/jetpack/css/jetpack.css" id="esfahan-bootstrap-group-css" media="all" rel="stylesheet" type="text/css"/>
-
+  <link href="https://colorcodedlyrics.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/esfahan/css/bootstrap/bootstrap.min.css,wp-includes/css/dist/block-library/style.min.css,wp-content/plugins/captcha/css/front_end_style.css,wp-content/plugins/captcha/css/desktop_style.css,wp-content/plugins/contact-form-plugin/css/form_style.css,wp-content/plugins/wp-poll/assets/tool-tip.min.css,wp-content/plugins/wp-poll/assets/front/css/checkbox.css,wp-content/plugins/wp-poll/assets/front/css/style.css,wp-content/plugins/wp-trending-post-slider-and-widget/assets/css/slick.css,wp-content/plugins/wp-trending-post-slider-and-widget/assets/css/wtpsw-public.css,wp-content/plugins/wp-pagenavi/pagenavi-css.css,wp-content/plugins/jetpack/modules/likes/style.css,wp-content/themes/esfahan/css/font-awesome/css/font-awesome.min.css,wp-content/themes/esfahan/style.css,wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/style.css,wp-content/plugins/jetpack/modules/sharedaddy/sharing.css,wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css,wp-content/plugins/jetpack/css/jetpack.css" id="esfahan-bootstrap-group-css" media="all" rel="stylesheet" type="text/css"/>
   <style id="wp-block-library-inline-css" type="text/css">
    .has-text-align-justify{text-align:justify;}
   </style>
-
   <style id="esfahan-style-inline-css" type="text/css">
    { clip: rect(1px, 1px, 1px, 1px); height: 1px; position: absolute; overflow: hidden; width: 1px; }
   </style>
@@ -81,6 +83,9 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
   <link href="https://colorcodedlyrics.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
   <link href="https://colorcodedlyrics.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
   <meta content="WordPress 5.4.2" name="generator"/>
+  <link href="https://wp.me/p1V6sc-Ab8" rel="shortlink"/>
+  <link href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2020%2F02%2Floona-ding-ding-dong-ddaengddaengddaeng" rel="alternate" type="application/json+oembed"/>
+  <link href="https://colorcodedlyrics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolorcodedlyrics.com%2F2020%2F02%2Floona-ding-ding-dong-ddaengddaengddaeng&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-29367300-1">
   </script>
   <script>
@@ -113,7 +118,7 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
   <script async="" data-ad-client="ca-pub-9127294175918477" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
   </script>
  </head>
- <body class="search search-results wp-custom-logo hfeed menuStyle3 menuStyle4 menuContained sticky-header" data-rsssl="1">
+ <body class="post-template-default single single-post postid-139074 single-format-standard wp-custom-logo menuStyle3 menuStyle4 menuContained sticky-header" data-rsssl="1">
   <div class="site" id="page">
    <a class="skip-link screen-reader-text" href="#content">
     Skip to content
@@ -207,7 +212,7 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
            <span class="screen-reader-text">
             Search for:
            </span>
-           <input class="search-field" name="s" placeholder="Search …" type="search" value="Girl's Talk LOONA"/>
+           <input class="search-field" name="s" placeholder="Search …" type="search" value=""/>
           </label>
           <input class="search-submit" type="submit" value="Search"/>
          </form>
@@ -236,8 +241,6 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
    <div style="padding-left: 5%">
     <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
     </script>
-
-
     <!-- Header -->
     <ins class="adsbygoogle" data-ad-client="ca-pub-9127294175918477" data-ad-format="auto" data-ad-slot="4553898897" data-full-width-responsive="true" style="display:block">
     </ins>
@@ -245,213 +248,1730 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
      (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
    </div>
-
    <div class="site-content" id="content">
     <div class="container">
      <div class="row">
-      <section class="content-area layout-two-columns col-lg-9" id="primary">
+      <div class="content-area layout-full col-md-12" id="primary">
        <main class="site-main" id="main">
-        <header class="page-header col-md-12 mb30">
-         <div class="row">
-          <h1 class="page-title">
-           Search Results for:
-           <span>
-            Girl's Talk LOONA
-           </span>
+        <article class="post-139074 post type-post status-publish format-standard has-post-thumbnail hentry category-krn category-loona-idalui-sonyeo tag-ding-ding-dong tag-loona tag-ddaengddaengddaeng" id="post-139074">
+         <header class="entry-header">
+          <span class="posted-on">
+           <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng" rel="bookmark">
+            <time class="entry-date published" datetime="2020-02-05T08:51:43-08:00">
+             February 5, 2020
+            </time>
+            <time class="updated" datetime="2020-06-05T02:43:17-07:00">
+             June 5, 2020
+            </time>
+           </a>
+          </span>
+          <h1 class="entry-title">
+           LOONA – Ding Ding Dong (땡땡땡)
           </h1>
-         </div>
-        </header>
-        <!-- .page-header -->
-        <div class="blog-loop">
-         <div class="row">
-          <div class="grid-sizer">
+          <div class="entry-meta">
+           <span class="cat-links">
+            <a href="https://colorcodedlyrics.com/category/krn" rel="category tag">
+             KOREAN
+            </a>
+            -
+            <a href="https://colorcodedlyrics.com/category/krn/loona-idalui-sonyeo" rel="category tag">
+             LOONA (이달의 소녀)
+            </a>
+           </span>
+           <span class="byline">
+            by
+            <span class="author vcard">
+             <a class="url fn n" href="https://colorcodedlyrics.com/author/eja">
+              eja
+             </a>
+            </span>
+           </span>
           </div>
-          <article class="col-md-6 layout-two-columns post-107603 post type-post status-publish format-standard has-post-thumbnail hentry category-chuu-chyu category-krn category-loona-idalui-sonyeo category-yves-ibeu tag-chuu tag-color-coded-lyrics tag-colorcoded tag-colorcodedlyrics tag-english tag-featured tag-girls-talk tag-korean tag-kpop tag-loona tag-lyrics tag-romanization tag-translation tag-yves" id="post-107603">
-
-           <div class="inner">
-            <header class="entry-header">
-             <div class="thumbnailcol-md-12">
-              <a aria-hidden="true" class="post-thumbnail" href="https://colorcodedlyrics.com/2017/12/loona-girl-s-talk-yves-chuu">
-               <img alt="LOONA – Girl’s Talk (Yves, Chuu)" class="attachment-esfahan-390-280 size-esfahan-390-280 wp-post-image" height="280" sizes="(max-width: 300px) 100vw, 300px" src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2017/12/2297085.jpg?resize=300%2C280&amp;ssl=1" srcset="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2017/12/2297085.jpg?resize=140%2C130&amp;ssl=1 140w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2017/12/2297085.jpg?resize=60%2C57&amp;ssl=1 60w" width="300"/>
-              </a>
-             </div>
-            </header>
-
-            <!-- .entry-header -->
-            <div class="post-info col-md-12">
-             <header class="entry-header">
-              <span class="posted-on">
-               <a href="https://colorcodedlyrics.com/2017/12/loona-girl-s-talk-yves-chuu" rel="bookmark">
-                <time class="entry-date published" datetime="2017-12-27T21:30:18-08:00">
-                 December 27, 2017
-                </time>
-                <time class="updated" datetime="2018-02-18T06:33:19-08:00">
-                 February 18, 2018
-                </time>
-               </a>
-              </span>
-              <h2 class="entry-title">
-               <a href="https://colorcodedlyrics.com/2017/12/loona-girl-s-talk-yves-chuu" rel="bookmark">
-                LOONA – Girl’s Talk (Yves, Chuu)
-               </a>
+          <!-- .entry-meta -->
+         </header>
+         <!-- .entry-header -->
+         <div class="entry-content">
+          <table>
+           <tbody>
+            <tr>
+             <td>
+              <h2 style="text-align: center">
+               땡땡땡
               </h2>
-              <div class="entry-meta">
-              </div>
-              <!-- .entry-meta -->
-             </header>
-             <!-- .entry-header -->
+              <p style="text-align: center">
+               <em>
+                ttaengttaengttaeng
+               </em>
+               <br/>
+               “Ding Ding Dong”
+               <br/>
+               <span style="text-decoration: underline">
+                #
+               </span>
+               <br/>
+               2020.02.05
+              </p>
+             </td>
+             <td style="text-align: right">
+              <img alt="" class="alignright" data-recalc-dims="1" height="200" src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/02/loona-so-what.jpg?resize=200%2C200&amp;ssl=1" title="AlbumArt" width="200"/>
+             </td>
+            </tr>
+            <tr>
+             <td style="text-align: center">
+              <span style="color: #f47089">
+               Vivi,
+              </span>
+              <span style="color: #900020">
+               Yves,
+              </span>
+              <span style="color: #1155cc">
+               Jinsoul,
+              </span>
+              <span style="color: #cc0000">
+               Kim Lip,
+               <span style="color: #0b813c">
+                Haseul
+               </span>
+              </span>
+              <br/>
+              <span style="color: #f9a27e">
+               Chuu,
+              </span>
+              <span style="color: #ec008c">
+               Heejin,
+              </span>
+              <span style="color: #eeee01">
+               Hyunjin,
+              </span>
+              <span style="color: #39bc9d">
+               Go Won,
+              </span>
+              <br/>
+              <span style="color: #860494">
+               Choerry,
+              </span>
+              <span style="color: #8c92ac">
+               Olivia Hye
+              </span>
+              ,
+              <span style="color: #f76e1d">
+               Yeojin
+              </span>
+             </td>
+             <td style="text-align: right">
+              <strong>
+               Lyrics/작사
+              </strong>
+              : 김연서
+              <br/>
+              <strong>
+               Composer/작곡
+              </strong>
+              : 밍지션(minGtion), 김연서
+              <br/>
+              <strong>
+               Arranger/편곡
+              </strong>
+              : names
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <p style="text-align: center">
+          </p>
+          <div class="jetpack-video-wrapper">
+           <span class="embed-youtube" style="text-align:center; display: block;">
+            <iframe allowfullscreen="true" class="youtube-player" height="659" src="https://www.youtube.com/embed/mntH6yL-4kY?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" style="border:0;" width="1170">
+            </iframe>
+           </span>
+          </div>
+          <p>
+           *I will always be updated every time I listen to this song, please comments with reason
+          </p>
+          <p>
+           <span style="color: #ff00ff">
+            <span id="more-139074">
+            </span>
+           </span>
+          </p>
+          <table border="0">
+           <tbody>
+            <tr>
+             <th>
+              Romanization
+             </th>
+             <th>
+              Korean
+             </th>
+             <th>
+              Translation
+             </th>
+            </tr>
+            <tr>
+             <td>
+              <span style="color: #ec008c">
+               itjana isanghae na
+              </span>
+              <br/>
+              <span style="color: #ec008c">
+               akkabuteo neol bomyeon Oh
+              </span>
+              <br/>
+              <span style="color: #ec008c">
+               waenji nasseolji aneun geol
+              </span>
+              <span style="color: #39bc9d">
+               (geurae geurae)
+              </span>
+              <br/>
+              <span style="color: #f9a27e">
+               wae neorang nuni majuchimyeon
+              </span>
+              <br/>
+              <span style="color: #f9a27e">
+               eoneusae nado moreuge
+              </span>
+              <br/>
+              <span style="color: #0b813c">
+               ipkkoriga ollagane
+              </span>
+              <p>
+               <span style="color: #900020">
+                hokshi ohaehalji molla joshimseureounde
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                na jakku neoreul chyeodaboge dwae
+               </span>
+               <br/>
+               <span style="color: #1155cc">
+                eonjenga nae kkumeseo neowa sondo jabeun geonman gata
+               </span>
+               <br/>
+               <span style="color: #eeee01">
+                ama urin Destiny, Maybe
+               </span>
+              </p>
+              <p>
+               <span style="color: #dadada">
+                ppalli dagawa ttaengttaengttaeng
+               </span>
+               <br/>
+               <span style="color: #cc0000">
+                jongi ullyeoojana
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                eoseo naege wa ttaengttaengttaeng
+               </span>
+               <br/>
+               <span style="color: #0b813c">
+                <span style="color: #f9a27e">
+                 oneuri jinagagi jeone
+                </span>
+               </span>
+               <span style="color: #f47089">
+                (nae mameul jeonallae)
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                baengbaengbaeng
+               </span>
+               <br/>
+               <span style="color: #0b813c">
+                dollyeo malhagin jom eosaekhanikka
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (geunyang geunyang wajura)
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                naega niga jota hajana
+               </span>
+               <br/>
+               <span style="color: #860494">
+                kkumkkweoon naye Sweet Fantasy
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (Shh, bimiriya)
+               </span>
+              </p>
+              <p>
+               <span style="color: #f76e1d">
+                uyeoni naege natana igeon machi dejabyu
+               </span>
+               <br/>
+               <span style="color: #f76e1d">
+                jigeum i sungan shijakhae neowa naye rangdebyu
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                pungseoncheoreom bupureobeorin nae mam
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                paran haneul wie nopi ttiweobwa
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                Uh, jjarithan i seolleim
+               </span>
+               <br/>
+               <span style="color: #f47089">
+                So what you waiting for
+               </span>
+              </p>
+              <p>
+               <span style="color: #cc0000">
+                hokshi ohaehalji mollaseo malhaneun geonde
+               </span>
+               <br/>
+               <span style="color: #cc0000">
+                na ireon jeogeun jeongmal cheomiya
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                yonggi inneun ge naega meonjeomyeon eottae soljikhae bollae
+               </span>
+               <br/>
+               <span style="color: #1155cc">
+                nae shimjangeun tto dugeun dugeun
+               </span>
+              </p>
+              <p>
+               <span style="color: #dadada">
+                ppalli dagawa ttaengttaengttaeng
+               </span>
+               <br/>
+               <span style="color: #ec008c">
+                jongi ullyeoojana
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                eoseo naege wa ttaengttaengttaeng
+               </span>
+               <br/>
+               <span style="color: #0b813c">
+                oneuri jinagagi jeone
+               </span>
+               <span style="color: #eeee01">
+                (nae mameul jeonallae)
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                baengbaengbaeng
+               </span>
+               <br/>
+               <span style="color: #1155cc">
+                dollyeo malhagin jom eosaekhanikka
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (geunyang geunyang wajura)
+               </span>
+               <br/>
+               <span style="color: #0b813c">
+                naega niga jota hajana
+               </span>
+              </p>
+              <p>
+               <span style="color: #860494">
+                eojjeom kkumil jido molla
+               </span>
+               <br/>
+               <span style="color: #860494">
+                kkumiramyeon jeoldae kkaeeonagi shireun geol
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                ontong ne saenggage gadeuk cha
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                gyesok juwiman maemdora
+               </span>
+               <span style="color: #f47089">
+                (eoseo ppalli)
+               </span>
+              </p>
+              <p>
+               <span style="color: #dadada">
+                ttaengttaengttaeng
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                (Woo~oh) naege dagawa
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                ttaengttaengttaeng
+               </span>
+               <br/>
+               <span style="color: #900020">
+                oneuri jinagi jeone
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (geunyang geunyang wa jura)
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                naega niga jota hajana
+               </span>
+               <span style="color: #f9a27e">
+                (neo jom)
+               </span>
+               <br/>
+               <span style="color: #f76e1d">
+                (geunyang geunyang wa jura)
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                naega jotago hajana
+               </span>
+              </p>
+              <p>
+               <span style="color: #dadada">
+                ppalli dagawa ttaengttaengttaeng
+               </span>
+               <br/>
+               <span style="color: #900020">
+                jongi ullyeoojana
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                eoseo naege wa ttaengttaengttaeng
+               </span>
+               <br/>
+               <span style="color: #ec008c">
+                oneuri jinagagi jeone
+               </span>
+               <span style="color: #900020">
+                (nae mameul jeonallae)
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                baengbaengbaeng
+               </span>
+               <br/>
+               <span style="color: #0b813c">
+                dollyeo malhagin jom eosaekhanikkka
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (geunyang geunyang wajura)
+               </span>
+               <br/>
+               <span style="color: #ec008c">
+                naega niga jota hajana
+               </span>
+               <br/>
+               <span style="color: #eeee01">
+                kkumkkweoon naye Sweet Fantasy
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                (Uh, jigeumiya)
+               </span>
+              </p>
+             </td>
+             <td>
+              <span style="color: #ec008c">
+               있잖아 이상해 나
+              </span>
+              <br/>
+              <span style="color: #ec008c">
+               아까부터 널 보면 Oh
+              </span>
+              <br/>
+              <span style="color: #ec008c">
+               왠지 낯설지 않은 걸
+              </span>
+              <span style="color: #39bc9d">
+               (그래 그래)
+              </span>
+              <br/>
+              <span style="color: #f9a27e">
+               왜 너랑 눈이 마주치면
+              </span>
+              <br/>
+              <span style="color: #f9a27e">
+               어느새 나도 모르게
+              </span>
+              <br/>
+              <span style="color: #0b813c">
+               입꼬리가 올라가네
+              </span>
+              <p>
+               <span style="color: #900020">
+                혹시 오해할지 몰라 조심스러운데
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                나 자꾸 너를 쳐다보게 돼
+               </span>
+               <br/>
+               <span style="color: #1155cc">
+                언젠가 내 꿈에서 너와 손도 잡은 것만 같아
+               </span>
+               <br/>
+               <span style="color: #eeee01">
+                아마 우린 Destiny, Maybe
+               </span>
+              </p>
+              <p>
+               <span style="color: #dadada">
+                빨리 다가와 땡땡땡
+               </span>
+               <br/>
+               <span style="color: #cc0000">
+                종이 울려오잖아
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                어서 내게 와 땡땡땡
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                오늘이 지나가기 전에
+               </span>
+               <span style="color: #f47089">
+                (내 맘을 전할래)
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                뱅뱅뱅
+               </span>
+               <br/>
+               <span style="color: #0b813c">
+                돌려 말하긴 좀 어색하니까
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (그냥 그냥 와주라)
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                내가 니가 좋다 하잖아
+               </span>
+               <br/>
+               <span style="color: #860494">
+                꿈꿔온 나의 Sweet Fantasy
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (Shh, 비밀이야)
+               </span>
+              </p>
+              <p>
+               <span style="color: #f76e1d">
+                우연히 내게 나타나 이건 마치 데자뷰
+               </span>
+               <br/>
+               <span style="color: #f76e1d">
+                지금 이 순간 시작해 너와 나의 랑데뷰
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                풍선처럼 부풀어버린 내 맘
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                파란 하늘 위에 높이 띄워봐
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                Uh, 짜릿한 이 설레임
+               </span>
+               <br/>
+               <span style="color: #f47089">
+                So what you waiting for
+               </span>
+              </p>
+              <p>
+               <span style="color: #cc0000">
+                혹시 오해할지 몰라서 말하는 건데
+               </span>
+               <br/>
+               <span style="color: #cc0000">
+                나 이런 적은 정말 첨이야
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                용기 있는 게 내가 먼저면 어때 솔직해 볼래
+               </span>
+               <br/>
+               <span style="color: #1155cc">
+                내 심장은 또 두근 두근
+               </span>
+              </p>
+              <p>
+               <span style="color: #dadada">
+                빨리 다가와 땡땡땡
+               </span>
+               <br/>
+               <span style="color: #ec008c">
+                종이 울려오잖아
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                어서 내게 와 땡땡땡
+               </span>
+               <br/>
+               <span style="color: #0b813c">
+                오늘이 지나가기 전에
+               </span>
+               <span style="color: #eeee01">
+                (내 맘을 전할래)
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                뱅뱅뱅
+               </span>
+               <br/>
+               <span style="color: #1155cc">
+                돌려 말하긴 좀 어색하니까
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (그냥 그냥 와주라)
+               </span>
+               <br/>
+               <span style="color: #0b813c">
+                내가 니가 좋다 하잖아
+               </span>
+              </p>
+              <p>
+               <span style="color: #860494">
+                어쩜 꿈일 지도 몰라
+               </span>
+               <br/>
+               <span style="color: #860494">
+                꿈이라면 절대 깨어나기 싫은 걸
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                온통 네 생각에 가득 차
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                계속 주위만 맴돌아
+               </span>
+               <span style="color: #f47089">
+                (어서 빨리)
+               </span>
+              </p>
+              <p>
+               <span style="color: #dadada">
+                땡땡땡
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                (Woo~oh) 내게 다가와
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                땡땡땡
+               </span>
+               <br/>
+               <span style="color: #900020">
+                오늘이 지나기 전에
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (그냥 그냥 와 주라)
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                내가 니가 좋다 하잖아
+               </span>
+               <span style="color: #f9a27e">
+                (너 좀)
+               </span>
+               <br/>
+               <span style="color: #f76e1d">
+                (그냥 그냥 와 주라)
+               </span>
+               <br/>
+               <span style="color: #f9a27e">
+                내가 좋다고 하잖아
+               </span>
+              </p>
+              <p>
+               <span style="color: #dadada">
+                빨리 다가와 땡땡땡
+               </span>
+               <br/>
+               <span style="color: #900020">
+                종이 울려오잖아
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                어서 내게 와 땡땡땡
+               </span>
+               <br/>
+               <span style="color: #ec008c">
+                오늘이 지나가기 전에
+               </span>
+               <span style="color: #900020">
+                (내 맘을 전할래)
+               </span>
+               <br/>
+               <span style="color: #dadada">
+                뱅뱅뱅
+               </span>
+               <br/>
+               <span style="color: #0b813c">
+                돌려 말하긴 좀 어색하니까
+               </span>
+               <br/>
+               <span style="color: #39bc9d">
+                (그냥 그냥 와주라)
+               </span>
+               <br/>
+               <span style="color: #ec008c">
+                내가 니가 좋다 하잖아
+               </span>
+               <br/>
+               <span style="color: #eeee01">
+                꿈꿔온 나의 Sweet Fantasy
+               </span>
+               <br/>
+               <span style="color: #8c92ac">
+                (Uh, 지금이야)
+               </span>
+              </p>
+             </td>
+             <td>
+              You know, I’ve been feeling weird
+              <br/>
+              Whenever I see you since earlier, oh
+              <br/>
+              Doesn’t feel unfamiliar, somehow (right right)
+              <br/>
+              Why, when I meet your gaze
+              <br/>
+              Before I know it
+              <br/>
+              My lips curl into a smile
+              <p>
+               Careful because you might misunderstand
+               <br/>
+               But I keep glancing at you
+               <br/>
+               I feel like I held your hand too sometime, in my dream
+               <br/>
+               Could be we’re destiny, maybe
+              </p>
+              <p>
+               Quickly come closer, ding ding dong
+               <br/>
+               The bell’s ringing, isn’t it
+               <br/>
+               Hurry and come to me, ding ding dong
+               <br/>
+               Before today is over (I’ll express my heart)
+               <br/>
+               Round and round and round
+               <br/>
+               It’s a bit awkward to talk around it so
+               <br/>
+               (Won’t you just, just come)
+               <br/>
+               I’m saying I like you, aren’t I
+               <br/>
+               I’ve dreamt of this sweet fantasy
+               <br/>
+               (Shh, it’s a secret)
+              </p>
+              <p>
+               Show up to me in coincidence, this is like déjà vu
+               <br/>
+               Starts right this moment, you and me in rendezvous
+               <br/>
+               My heart blown up like a balloon
+               <br/>
+               I lift it high across the blue sky
+               <br/>
+               Uh, this electric excitement
+               <br/>
+               So what you waiting for
+              </p>
+              <p>
+               I’m saying this because you might misunderstand
+               <br/>
+               I’ve really never been like this before
+               <br/>
+               So what if I’m the first to have courage, wanna be honest
+               <br/>
+               My heart pounds and pounds again
+              </p>
+              <p>
+               Quickly come closer, ding ding dong
+               <br/>
+               The bell’s ringing, isn’t it
+               <br/>
+               Hurry and come to me, ding ding dong
+               <br/>
+               Before today is over (I’ll express my heart)
+               <br/>
+               Round and round and round
+               <br/>
+               It’s a bit awkward to talk around it so
+               <br/>
+               (Won’t you just, just come)
+               <br/>
+               I’m saying I like you, aren’t I
+              </p>
+              <p>
+               Maybe it’s all a dream
+               <br/>
+               If it’s a dream I never want to wake up
+               <br/>
+               I’m full with thoughts of you all over
+               <br/>
+               Just circling around (hurry quickly)
+              </p>
+              <p>
+               Ding ding dong
+               <br/>
+               (Woo~oh) come to me
+               <br/>
+               Ding ding dong
+               <br/>
+               Before today is over
+               <br/>
+               (Won’t you just, just come)
+               <br/>
+               I’m saying I like you, aren’t I (so you)
+               <br/>
+               (Won’t you just, just come)
+               <br/>
+               I’m saying that I like
+              </p>
+              <p>
+               Quickly come closer, ding ding dong
+               <br/>
+               The bell’s ringing, isn’t it
+               <br/>
+               Hurry and come to me, ding ding dong
+               <br/>
+               Before today is over (I’ll express my heart)
+               <br/>
+               Round and round and round
+               <br/>
+               It’s a bit awkward to talk around it so
+               <br/>
+               (Won’t you just, just come)
+               <br/>
+               I’m saying I like you, aren’t I
+               <br/>
+               I’ve dreamt of this sweet fantasy
+               <br/>
+               (Uh, it’s right now)
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <p>
+           Korean: music.naver
+           <br/>
+           Rom: colorcodedlyrics.com
+           <br/>
+           Eng:
+           <a href="https://www.teamsubbits.com/">
+            teamsubbits
+           </a>
+           <br/>
+           Info: music.naver
+          </p>
+          <div class="sharedaddy sd-sharing-enabled">
+           <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+            <h3 class="sd-title">
+             Share this:
+            </h3>
+            <div class="sd-content">
+             <ul>
+              <li class="share-facebook">
+               <a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-139074" href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+                <span>
+                 Facebook
+                </span>
+               </a>
+              </li>
+              <li class="share-twitter">
+               <a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-139074" href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+                <span>
+                 Twitter
+                </span>
+               </a>
+              </li>
+              <li class="share-end">
+              </li>
+             </ul>
             </div>
            </div>
-          </article>
-          <!-- #post-107603 -->
-          <div class="code-block code-block-1" style="margin: 8px 0; clear: both;">
-           <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
-           </script>
-           <ins class="adsbygoogle" data-ad-client="ca-pub-9127294175918477" data-ad-format="fluid" data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-slot="2544612259" style="display:block">
-           </ins>
-           <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-           </script>
           </div>
-          <article class="col-md-6 layout-two-columns post-95344 post type-post status-publish format-standard has-post-thumbnail hentry category-choerry-choeri category-chuu-chyu category-go-won-gowon category-haseul category-heejin-huijin category-hyunjin-hyeonjin category-indices category-jinsoul-jinsol category-kimlip-gimlib category-krn category-loona-idalui-sonyeo category-loo-1-3 category-odd-eye-odeuai category-odd-eye-circle-loona-idalui-sonyeo category-olivia-hye-ollibiahye category-vivi-bibi category-yeojin category-yves-ibeu category-yyxy tag-butterfly tag-70026 tag-choerry tag-english tag-english-translation tag-haseul tag-heejin tag-hi-high tag-hyunjin tag-index tag-inex tag-jinsoul tag-kim-lip tag-loona tag-loona-loo-idalui-sonyeo-lyrics-index tag-lyrics tag-translation tag-vivi tag-xx tag-yeojin" id="post-95344">
-
-
-           <div class="inner">
-            <header class="entry-header">
-             <div class="thumbnailcol-md-12">
-              <a aria-hidden="true" class="post-thumbnail" href="https://colorcodedlyrics.com/2017/01/loona-loo-idalui-sonyeo-lyrics-index">
-               <img alt="LOONA/LOOΠΔ (이달의 소녀) Lyrics Index" class="attachment-esfahan-390-280 size-esfahan-390-280 wp-post-image" height="280" sizes="(max-width: 390px) 100vw, 390px" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2017/01/LOOΠΔ_Debut_Logo_promotional_photo.png?resize=390%2C280&amp;ssl=1" srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2017/01/LOOΠΔ_Debut_Logo_promotional_photo.png?zoom=2&amp;resize=390%2C280&amp;ssl=1 780w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2017/01/LOOΠΔ_Debut_Logo_promotional_photo.png?zoom=3&amp;resize=390%2C280&amp;ssl=1 1170w" width="390"/>
+          <div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" data-name="like-post-frame-28385844-139074-5ee5312a8e2d3" data-src="https://widgets.wp.com/likes/#blog_id=28385844&amp;post_id=139074&amp;origin=colorcodedlyrics.com&amp;obj_id=28385844-139074-5ee5312a8e2d3" id="like-post-wrapper-28385844-139074-5ee5312a8e2d3">
+           <h3 class="sd-title">
+            Like this:
+           </h3>
+           <div class="likes-widget-placeholder post-likes-widget-placeholder" style="height: 55px;">
+            <span class="button">
+             <span>
+              Like
+             </span>
+            </span>
+            <span class="loading">
+             Loading...
+            </span>
+           </div>
+           <span class="sd-text-color">
+           </span>
+           <a class="sd-link-color">
+           </a>
+          </div>
+         </div>
+         <!-- .entry-content -->
+         <div>
+          <h1>
+           Trending Songs
+          </h1>
+          <div class="wtpsw-post-carousel-1 wtpsw-post-carousel design-1" data-conf='{"dots":"true","arrows":"true","autoplay":"true","autoplayinterval":3000,"speed":300,"slides_to_show":"4","slides_to_scroll":"3"}' id="wtpsw-carousel-1">
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-turn-back-time">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?w=500&amp;ssl=1 500w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=250%2C250&amp;ssl=1 250w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
               </a>
              </div>
-            </header>
-            <!-- .entry-header -->
-            <div class="post-info col-md-12">
-             <header class="entry-header">
-              <span class="posted-on">
-               <a href="https://colorcodedlyrics.com/2017/01/loona-loo-idalui-sonyeo-lyrics-index" rel="bookmark">
-                <time class="entry-date published" datetime="2017-01-27T23:00:59-08:00">
-                 January 27, 2017
-                </time>
-                <time class="updated" datetime="2020-04-15T12:11:28-07:00">
-                 April 15, 2020
-                </time>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-turn-back-time">
+               WayV (威神V) – Turn Back Time (超时空 回)
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/dejaboo">
+                Dejaboo
                </a>
               </span>
-              <h2 class="entry-title">
-               <a href="https://colorcodedlyrics.com/2017/01/loona-loo-idalui-sonyeo-lyrics-index" rel="bookmark">
-                LOONA/LOOΠΔ (이달의 소녀) Lyrics Index
-               </a>
-              </h2>
-              <div class="entry-meta">
-              </div>
-              <!-- .entry-meta -->
-             </header>
-             <!-- .entry-header -->
+              /
+              <span>
+               June 9, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               0 Comments
+              </span>
+             </div>
             </div>
            </div>
-          </article>
-          <!-- #post-95344 -->
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/cosmic-girls-wjsn-ujusonyeo-butterfly">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/ZmqcsB.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/ZmqcsB.jpg?w=500&amp;ssl=1 500w, https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/ZmqcsB.jpg?resize=300%2C300&amp;ssl=1 300w, https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/ZmqcsB.jpg?resize=250%2C250&amp;ssl=1 250w, https://i1.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/ZmqcsB.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/cosmic-girls-wjsn-ujusonyeo-butterfly">
+               COSMIC GIRLS (WJSN/우주소녀) – BUTTERFLY
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/wozumo">
+                Wozumo
+               </a>
+              </span>
+              /
+              <span>
+               June 9, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               0 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/super-junior-k-r-y-when-we-were-us-puleuge-bichnadeon-uliui-gyejeol">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/Super-Junior-K.R.Y.-푸르게-빛나던-우리의-계절-When-We-Were-Us-The-1st-Mini-Album.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/Super-Junior-K.R.Y.-푸르게-빛나던-우리의-계절-When-We-Were-Us-The-1st-Mini-Album.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/Super-Junior-K.R.Y.-푸르게-빛나던-우리의-계절-When-We-Were-Us-The-1st-Mini-Album.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/Super-Junior-K.R.Y.-푸르게-빛나던-우리의-계절-When-We-Were-Us-The-1st-Mini-Album.jpg?resize=250%2C250&amp;ssl=1 250w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/Super-Junior-K.R.Y.-푸르게-빛나던-우리의-계절-When-We-Were-Us-The-1st-Mini-Album.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/super-junior-k-r-y-when-we-were-us-puleuge-bichnadeon-uliui-gyejeol">
+               Super Junior-K.R.Y. – When We Were Us (푸르게 빛나던 우리의 계절)
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/wozumo">
+                Wozumo
+               </a>
+              </span>
+              /
+              <span>
+               June 8, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               0 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-bad-alive">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?w=500&amp;ssl=1 500w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=250%2C250&amp;ssl=1 250w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-bad-alive">
+               WayV (威神V) – Bad Alive
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/dejaboo">
+                Dejaboo
+               </a>
+              </span>
+              /
+              <span>
+               June 9, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               2 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-after-midnight">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?w=500&amp;ssl=1 500w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=250%2C250&amp;ssl=1 250w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-after-midnight">
+               WayV (威神V) – After Midnight
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/dejaboo">
+                Dejaboo
+               </a>
+              </span>
+              /
+              <span>
+               June 9, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               0 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-only-human">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?w=500&amp;ssl=1 500w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=250%2C250&amp;ssl=1 250w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-only-human">
+               WayV (威神V) – Only Human
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/dejaboo">
+                Dejaboo
+               </a>
+              </span>
+              /
+              <span>
+               June 9, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               2 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-electric-hearts">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?w=500&amp;ssl=1 500w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=250%2C250&amp;ssl=1 250w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-electric-hearts">
+               WayV (威神V) – Electric Hearts
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/dejaboo">
+                Dejaboo
+               </a>
+              </span>
+              /
+              <span>
+               June 9, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               0 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/n-flying-oh-really-a-jinjjayo">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/N.Flying-So-通-COMMUNICATION.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/N.Flying-So-通-COMMUNICATION.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/N.Flying-So-通-COMMUNICATION.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/N.Flying-So-通-COMMUNICATION.jpg?resize=785%2C785&amp;ssl=1 785w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/N.Flying-So-通-COMMUNICATION.jpg?resize=250%2C250&amp;ssl=1 250w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/N.Flying-So-通-COMMUNICATION.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/N.Flying-So-通-COMMUNICATION.jpg?resize=795%2C795&amp;ssl=1 795w, https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/N.Flying-So-通-COMMUNICATION.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/n-flying-oh-really-a-jinjjayo">
+               N.Flying – Oh really. (아 진짜요.)
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/xmhhjx">
+                Sandy
+               </a>
+              </span>
+              /
+              <span>
+               June 10, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               1 Comment
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-stand-by-me">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?w=500&amp;ssl=1 500w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=250%2C250&amp;ssl=1 250w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-stand-by-me">
+               WayV (威神V) – Stand By Me
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/dejaboo">
+                Dejaboo
+               </a>
+              </span>
+              /
+              <span>
+               June 9, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               0 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-domino">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?w=500&amp;ssl=1 500w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=250%2C250&amp;ssl=1 250w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-domino">
+               WayV (威神V) – Domino (多米诺)
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/dejaboo">
+                Dejaboo
+               </a>
+              </span>
+              /
+              <span>
+               June 9, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               0 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/seventeen-my-my">
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/seventeen-my-my">
+               SEVENTEEN – My My
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/xmhhjx">
+                Sandy
+               </a>
+              </span>
+              /
+              <span>
+               June 11, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               0 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="wtpsw-post-carousel-slides">
+            <div class="wtpsw-medium-12 wtpswcolumns">
+             <div class="wtpsw-post-image-bg">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-unbreakable">
+               <img alt="" class="attachment-500x500 size-500x500 wp-post-image" height="500" sizes="(max-width: 500px) 100vw, 500px" src="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?fit=500%2C500&amp;ssl=1" srcset="https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?w=500&amp;ssl=1 500w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=250%2C250&amp;ssl=1 250w, https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/06/wayv-awaken-the-world.jpg?resize=360%2C360&amp;ssl=1 360w" width="500"/>
+              </a>
+             </div>
+             <h4 class="wtpsw-post-title">
+              <a href="https://colorcodedlyrics.com/2020/06/wayv-v-unbreakable">
+               WayV (威神V) – Unbreakable (执迷)
+              </a>
+             </h4>
+             <div class="wtpsw-post-stats">
+              <span>
+               By
+               <a href="https://colorcodedlyrics.com/author/dejaboo">
+                Dejaboo
+               </a>
+              </span>
+              /
+              <span>
+               June 9, 2020
+              </span>
+              /
+              <span class="wtpsw-post-comment">
+               0 Comments
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
          </div>
+         <footer class="entry-footer">
+          <span class="tags-links">
+           Tagged
+           <a href="https://colorcodedlyrics.com/tag/ding-ding-dong" rel="tag">
+            Ding Ding DOng
+           </a>
+           ,
+           <a href="https://colorcodedlyrics.com/tag/loona" rel="tag">
+            LOONA
+           </a>
+           ,
+           <a href="https://colorcodedlyrics.com/tag/ddaengddaengddaeng" rel="tag">
+            땡땡땡
+           </a>
+          </span>
+         </footer>
+         <!-- .entry-footer -->
+        </article>
+        <!-- #post-139074 -->
+        <nav aria-label="Posts" class="navigation post-navigation" role="navigation">
+         <h2 class="screen-reader-text">
+          Post navigation
+         </h2>
+         <div class="nav-links">
+          <div class="nav-previous">
+           <a href="https://colorcodedlyrics.com/2020/02/loona-oh-yes-i-am" rel="prev">
+            LOONA – Oh (Yes I Am)
+           </a>
+          </div>
+          <div class="nav-next">
+           <a href="https://colorcodedlyrics.com/2020/02/gfriend-yeojachingu-from-me" rel="next">
+            GFRIEND (여자친구) – From Me
+           </a>
+          </div>
+         </div>
+        </nav>
+        <div class="comments-area" id="comments">
+         <h2 class="comments-title">
+          11 comments
+         </h2>
+         <!-- .comments-title -->
+         <ol class="comment-list">
+          <li class="comment byuser comment-author-soneplayboyz even thread-even depth-1" id="comment-23599">
+           <article class="comment-body comment-entry clearfix" id="div-comment-23599">
+            <figure class="comment-avatar">
+             <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/0941c2857fe3857c2046c028051e5c7b?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0941c2857fe3857c2046c028051e5c7b?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+            </figure>
+            <div class="comment-text">
+             <header class="comment-head">
+              <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-23599">
+               <time class="comment-time" datetime="2020-02-05T08:57:57-08:00">
+                February 5, 2020 at 8:57 am
+               </time>
+              </a>
+              <h5 class="comment-author-name">
+               <span>
+                <b class="fn">
+                 soneplayboyz
+                </b>
+               </span>
+              </h5>
+             </header>
+             <div class="comment-body">
+              <div class="comment-content">
+               <p>
+                i think the first and the third “dollyeo malhagin jom eosaekhanikka” is Haseul
+                <br/>
+                cause they sounds similar to each other
+                <br/>
+                and both of them are different from the second which is obviously Jinsoul’s
+               </p>
+              </div>
+              <div class="comment-links">
+              </div>
+             </div>
+            </div>
+           </article>
+          </li>
+          <!-- #comment-## -->
+          <li class="comment byuser comment-author-joaquin odd alt thread-odd thread-alt depth-1" id="comment-23612">
+           <article class="comment-body comment-entry clearfix" id="div-comment-23612">
+            <figure class="comment-avatar">
+             <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+            </figure>
+            <div class="comment-text">
+             <header class="comment-head">
+              <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-23612">
+               <time class="comment-time" datetime="2020-02-06T20:17:13-08:00">
+                February 6, 2020 at 8:17 pm
+               </time>
+              </a>
+              <h5 class="comment-author-name">
+               <span>
+                <b class="fn">
+                 Joaquin
+                </b>
+               </span>
+              </h5>
+             </header>
+             <div class="comment-body">
+              <div class="comment-content">
+               <p>
+                1st verse
+                <br/>
+                “itjana isanghae na
+                <br/>
+                akkabuteo neol bomyeon Oh
+                <br/>
+                waenji nasseolji aneun geo” is heejin
+               </p>
+               <p>
+                1st pre chorus
+                <br/>
+                “eonjenga nae kkumeseo neowa sondo jabeun geonman gata” is  jinsoul
+                <br/>
+                “ama urin Destiny, Maybe” is hyunjin
+               </p>
+              </div>
+              <div class="comment-links">
+              </div>
+             </div>
+            </div>
+           </article>
+          </li>
+          <!-- #comment-## -->
+          <li class="comment byuser comment-author-soneplayboyz even thread-even depth-1" id="comment-23620">
+           <article class="comment-body comment-entry clearfix" id="div-comment-23620">
+            <figure class="comment-avatar">
+             <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/0941c2857fe3857c2046c028051e5c7b?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0941c2857fe3857c2046c028051e5c7b?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+            </figure>
+            <div class="comment-text">
+             <header class="comment-head">
+              <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-23620">
+               <time class="comment-time" datetime="2020-02-07T11:00:03-08:00">
+                February 7, 2020 at 11:00 am
+               </time>
+              </a>
+              <h5 class="comment-author-name">
+               <span>
+                <b class="fn">
+                 soneplayboyz
+                </b>
+               </span>
+              </h5>
+             </header>
+             <div class="comment-body">
+              <div class="comment-content">
+               <p>
+                “pungseoncheoreom bupureobeorin nae mam
+                <br/>
+                paran haneul wie nopi ttiweobwa
+                <br/>
+                Uh, jjarithan i seolleim” is such a weird part cause they both sounds like gowon
+               </p>
+              </div>
+              <div class="comment-links">
+              </div>
+             </div>
+            </div>
+           </article>
+           <ol class="children">
+            <li class="comment byuser comment-author-adal-1901 odd alt depth-2" id="comment-23623">
+             <article class="comment-body comment-entry clearfix" id="div-comment-23623">
+              <figure class="comment-avatar">
+               <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/0761005b7bb1fb92f57e25ff92c75f50?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0761005b7bb1fb92f57e25ff92c75f50?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+              </figure>
+              <div class="comment-text">
+               <header class="comment-head">
+                <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-23623">
+                 <time class="comment-time" datetime="2020-02-07T14:57:36-08:00">
+                  February 7, 2020 at 2:57 pm
+                 </time>
+                </a>
+                <h5 class="comment-author-name">
+                 <span>
+                  <b class="fn">
+                   adal.1901
+                  </b>
+                 </span>
+                </h5>
+               </header>
+               <div class="comment-body">
+                <div class="comment-content">
+                 <p>
+                  I agree. It sounds like gowon to me.
+                 </p>
+                </div>
+                <div class="comment-links">
+                </div>
+               </div>
+              </div>
+             </article>
+             <ol class="children">
+              <li class="comment byuser comment-author-eja bypostauthor even depth-3" id="comment-23648">
+               <article class="comment-body comment-entry clearfix" id="div-comment-23648">
+                <figure class="comment-avatar">
+                 <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/15ff590daa820be8b35aba610dec1b5b?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/15ff590daa820be8b35aba610dec1b5b?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+                </figure>
+                <div class="comment-text">
+                 <header class="comment-head">
+                  <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-23648">
+                   <time class="comment-time" datetime="2020-02-12T05:08:13-08:00">
+                    February 12, 2020 at 5:08 am
+                   </time>
+                  </a>
+                  <h5 class="comment-author-name">
+                   <span>
+                    <b class="fn">
+                     eja
+                    </b>
+                   </span>
+                  </h5>
+                 </header>
+                 <div class="comment-body">
+                  <div class="comment-content">
+                   <p>
+                    she is Olivia, after her rap you can see clearly Go Won voice is different than Olivia’s rap
+                   </p>
+                  </div>
+                  <div class="comment-links">
+                  </div>
+                 </div>
+                </div>
+               </article>
+              </li>
+              <!-- #comment-## -->
+             </ol>
+             <!-- .children -->
+            </li>
+            <!-- #comment-## -->
+           </ol>
+           <!-- .children -->
+          </li>
+          <!-- #comment-## -->
+          <li class="comment byuser comment-author-joaquin odd alt thread-odd thread-alt depth-1" id="comment-23630">
+           <article class="comment-body comment-entry clearfix" id="div-comment-23630">
+            <figure class="comment-avatar">
+             <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+            </figure>
+            <div class="comment-text">
+             <header class="comment-head">
+              <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-23630">
+               <time class="comment-time" datetime="2020-02-09T17:06:54-08:00">
+                February 9, 2020 at 5:06 pm
+               </time>
+              </a>
+              <h5 class="comment-author-name">
+               <span>
+                <b class="fn">
+                 Joaquin
+                </b>
+               </span>
+              </h5>
+             </header>
+             <div class="comment-body">
+              <div class="comment-content">
+               <p>
+                I think there’s a type of “pattern” in the chorus.  The one who sings “oneuri jinagagi jeone” also sings “naega niga joda hajana.
+                <br/>
+                So with this being said,
+                <br/>
+                2nd chorus
+                <br/>
+                “Naega niga joda hajana” is HaSeul
+                <br/>
+                3rd chorus
+                <br/>
+                “Naega niga joda hajana” is HeeJin
+                <br/>
+                I also think that in the bridge “naega niga joda hajana” is singed by HyunJin
+               </p>
+              </div>
+              <div class="comment-links">
+              </div>
+             </div>
+            </div>
+           </article>
+          </li>
+          <!-- #comment-## -->
+          <li class="comment byuser comment-author-joaquin even thread-even depth-1" id="comment-23916">
+           <article class="comment-body comment-entry clearfix" id="div-comment-23916">
+            <figure class="comment-avatar">
+             <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+            </figure>
+            <div class="comment-text">
+             <header class="comment-head">
+              <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-23916">
+               <time class="comment-time" datetime="2020-04-22T13:39:08-07:00">
+                April 22, 2020 at 1:39 pm
+               </time>
+              </a>
+              <h5 class="comment-author-name">
+               <span>
+                <b class="fn">
+                 Joaquin
+                </b>
+               </span>
+              </h5>
+             </header>
+             <div class="comment-body">
+              <div class="comment-content">
+               <p>
+                all these “nae mameul jeonallae” are singed by different persons
+                <a href="https://twitter.com/gg_vocals/status/1252823259474583553" rel="nofollow ugc">
+                 https://twitter.com/gg_vocals/status/1252823259474583553
+                </a>
+               </p>
+              </div>
+              <div class="comment-links">
+              </div>
+             </div>
+            </div>
+           </article>
+           <ol class="children">
+            <li class="comment byuser comment-author-joaquin odd alt depth-2" id="comment-23917">
+             <article class="comment-body comment-entry clearfix" id="div-comment-23917">
+              <figure class="comment-avatar">
+               <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+              </figure>
+              <div class="comment-text">
+               <header class="comment-head">
+                <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-23917">
+                 <time class="comment-time" datetime="2020-04-22T16:27:43-07:00">
+                  April 22, 2020 at 4:27 pm
+                 </time>
+                </a>
+                <h5 class="comment-author-name">
+                 <span>
+                  <b class="fn">
+                   Joaquin
+                  </b>
+                 </span>
+                </h5>
+               </header>
+               <div class="comment-body">
+                <div class="comment-content">
+                 <p>
+                  sung**** sorry my english sometimes is bad,,,
+                 </p>
+                </div>
+                <div class="comment-links">
+                </div>
+               </div>
+              </div>
+             </article>
+            </li>
+            <!-- #comment-## -->
+           </ol>
+           <!-- .children -->
+          </li>
+          <!-- #comment-## -->
+          <li class="comment byuser comment-author-bloom even thread-odd thread-alt depth-1" id="comment-24050">
+           <article class="comment-body comment-entry clearfix" id="div-comment-24050">
+            <figure class="comment-avatar">
+             <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/4f153594566fbe4e982b71b86a2f4e39?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/4f153594566fbe4e982b71b86a2f4e39?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+            </figure>
+            <div class="comment-text">
+             <header class="comment-head">
+              <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-24050">
+               <time class="comment-time" datetime="2020-05-13T04:36:03-07:00">
+                May 13, 2020 at 4:36 am
+               </time>
+              </a>
+              <h5 class="comment-author-name">
+               <span>
+                <b class="fn">
+                 bloom
+                </b>
+               </span>
+              </h5>
+             </header>
+             <div class="comment-body">
+              <div class="comment-content">
+               <p>
+                The first “nae mameul jeonallae” is Hyunjin, the second one is Choerry, and the last one is Vivi
+               </p>
+              </div>
+              <div class="comment-links">
+              </div>
+             </div>
+            </div>
+           </article>
+          </li>
+          <!-- #comment-## -->
+          <li class="comment byuser comment-author-bloom odd alt thread-even depth-1" id="comment-24051">
+           <article class="comment-body comment-entry clearfix" id="div-comment-24051">
+            <figure class="comment-avatar">
+             <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/4f153594566fbe4e982b71b86a2f4e39?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/4f153594566fbe4e982b71b86a2f4e39?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+            </figure>
+            <div class="comment-text">
+             <header class="comment-head">
+              <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-24051">
+               <time class="comment-time" datetime="2020-05-13T04:37:59-07:00">
+                May 13, 2020 at 4:37 am
+               </time>
+              </a>
+              <h5 class="comment-author-name">
+               <span>
+                <b class="fn">
+                 bloom
+                </b>
+               </span>
+              </h5>
+             </header>
+             <div class="comment-body">
+              <div class="comment-content">
+               <p>
+                I based it on Joaquin linked video on twitter
+               </p>
+              </div>
+              <div class="comment-links">
+              </div>
+             </div>
+            </div>
+           </article>
+          </li>
+          <!-- #comment-## -->
+          <li class="comment byuser comment-author-joaquin even thread-odd thread-alt depth-1" id="comment-24257">
+           <article class="comment-body comment-entry clearfix" id="div-comment-24257">
+            <figure class="comment-avatar">
+             <img alt="" class="avatar avatar-70 photo" height="70" src="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=70&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/5adfb2d9f4bfac6d9356ea93281ecc8d?s=140&amp;d=mm&amp;r=pg 2x" width="70"/>
+            </figure>
+            <div class="comment-text">
+             <header class="comment-head">
+              <a href="https://colorcodedlyrics.com/2020/02/loona-ding-ding-dong-ddaengddaengddaeng#comment-24257">
+               <time class="comment-time" datetime="2020-06-03T15:26:51-07:00">
+                June 3, 2020 at 3:26 pm
+               </time>
+              </a>
+              <h5 class="comment-author-name">
+               <span>
+                <b class="fn">
+                 Joaquin
+                </b>
+               </span>
+              </h5>
+             </header>
+             <div class="comment-body">
+              <div class="comment-content">
+               <p>
+                1st chorus
+                <br/>
+                [Choerry] nae mameul jeonallae
+                <br/>
+                3rd chorus
+                <br/>
+                [ViVi] nae mameul jeonallae
+               </p>
+               <p>
+                In the korean lyrics you counted “(Woo~oh) naege dagawa” as a ViVi line
+               </p>
+              </div>
+              <div class="comment-links">
+              </div>
+             </div>
+            </div>
+           </article>
+          </li>
+          <!-- #comment-## -->
+         </ol>
+         <!-- .comment-list -->
+         <p class="no-comments">
+          Comments are closed.
+         </p>
         </div>
+        <!-- #comments -->
        </main>
        <!-- #main -->
-      </section>
+      </div>
       <!-- #primary -->
-      <aside class="widget-area col-lg-3" id="secondary">
-       <section class="widget ko_fi_widget" id="ko_fi_widget-2">
-        <h4 class="widget-title">
-         Support CCL Authors!
-        </h4>
-        <script src="https://ko-fi.com/widgets/widget_2.js" type="text/javascript">
-        </script>
-        <script type="text/javascript">
-         kofiwidget2.init('Buy CCL a coffee!', '#46B798', 'colorcodedlyrics');let ko_fi_widget_2Html = kofiwidget2.getHTML().replace('<div class=btn-container>', '<div style="float: none; text-align: left;" class=btn-container>');document.writeln(ko_fi_widget_2Html);
-        </script>
-       </section>
-       <section class="widget_text widget widget_custom_html" id="custom_html-3">
-        <h4 class="widget-title">
-         Links to Upcoming Releases
-        </h4>
-        <div class="textwidget custom-html-widget">
-         <h4>
-          June 15
-         </h4>
-         <a href="https://colorcodedlyrics.com/2018/11/iz-one-aijeuwon-produce-48-lyrics-index">
-          IZ*ONE - Oneiric Diary
-         </a>
-         <h4>
-          June 17
-         </h4>
-         <a href="https://colorcodedlyrics.com/category/krn/d1ce-diwonseu">
-          D1CE - Draw You: Remember Me
-         </a>
-         <br/>
-         <a href="https://colorcodedlyrics.com/2019/07/nature-neicheo-lyrics-index">
-          NATURE - Natureworld
-         </a>
-         <br/>
-         <a href="https://colorcodedlyrics.com/2017/12/stray-kids-seuteulei-kijeu-lyrics-index">
-          Stray Kids - God's Menu
-         </a>
-         <h4>
-          June 18
-         </h4>
-         <a href="https://colorcodedlyrics.com/2017/09/weki-meki-wikimiki-lyrics-index">
-          Weki Meki- Hide and Seek
-         </a>
-         <h4>
-          June 22
-         </h4>
-         <a href="https://colorcodedlyrics.com/2015/10/seventeen-sebeuntin-lyrics-index">
-          Seventeen - Heng:garæ Journey Of Youth
-         </a>
-         <br/>
-         <a href="https://colorcodedlyrics.com/category/krn/voisper-boiseupeo">
-          VOISPER - The Day
-         </a>
-         <h4>
-          June 23
-         </h4>
-         <a href="https://colorcodedlyrics.com/2017/09/golden-child-goldeunchaildeu-lyrics-index">
-          Golden Child - Take A Leap
-         </a>
-         <h4>
-          June 26
-         </h4>
-         <a href="https://colorcodedlyrics.com/2017/09/blackpink-beullaegpingkeu-lyrics-index">
-          Blackpink Prerelease
-         </a>
-         <h4>
-          June 29
-         </h4>
-         <a href="https://colorcodedlyrics.com/category/krn/3ye-sseodeuai">
-          3YE comeback
-         </a>
-         <br/>
-         <a href="https://colorcodedlyrics.com/2019/05/ab6ix-eibisigseu-lyrics-index">
-          AB6IX - Vivid
-         </a>
-         <br/>
-         <a href="https://colorcodedlyrics.com/category/cho-seungyoun-joseungyeon">
-          WOODZ (Cho Seungyoun) - Equal
-         </a>
-         <h4>
-          June 30
-         </h4>
-         <a href="https://colorcodedlyrics.com/2019/07/cix-ssiaiegseu-lyrics-index">
-          CIX - Hello
-         </a>
-         <br/>
-         <a href="https://colorcodedlyrics.com/2016/09/up10tion-eobtensyeon-lyrics-index">
-          Lee Jinhyuk (UP10TION) comeback
-         </a>
-         <br/>
-         Weekly - We Are (Debut)!
-         <br/>
-        </div>
-       </section>
-      </aside>
-      <!-- #secondary -->
      </div>
      <!-- #content -->
     </div>
@@ -500,6 +2020,22 @@ var wpp_object = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-aja
    <!-- #colophon -->
   </div>
   <!-- #page -->
+  <div style="display:none">
+   <div class="grofile-hash-map-0941c2857fe3857c2046c028051e5c7b">
+   </div>
+   <div class="grofile-hash-map-5adfb2d9f4bfac6d9356ea93281ecc8d">
+   </div>
+   <div class="grofile-hash-map-0761005b7bb1fb92f57e25ff92c75f50">
+   </div>
+   <div class="grofile-hash-map-15ff590daa820be8b35aba610dec1b5b">
+   </div>
+   <div class="grofile-hash-map-4f153594566fbe4e982b71b86a2f4e39">
+   </div>
+  </div>
+  <script type="text/javascript">
+   window.WPCOM_sharing_counts = {"https:\/\/colorcodedlyrics.com\/2020\/02\/loona-ding-ding-dong-ddaengddaengddaeng":139074};
+  </script>
+  <link href="https://colorcodedlyrics.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/jetpack/modules/theme-tools/responsive-videos/responsive-videos.css" id="jetpack-responsive-videos-style-group-css" media="all" rel="stylesheet" type="text/css"/>
   <script src="https://secure.gravatar.com/js/gprofiles.js?ver=202024" type="text/javascript">
   </script>
   <script type="text/javascript">
@@ -514,17 +2050,35 @@ var esfahanSlider = {"esfahan_slider_active":""};
   </script>
   <script type="text/javascript">
    /* <![CDATA[ */
-var Wtpsw = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"0"};
+var Wtpsw = {"ajaxurl":"https:\/\/colorcodedlyrics.com\/wp-admin\/admin-ajax.php","is_mobile":"0","is_rtl":"0","post_view_count":"139074"};
 /* ]]> */
   </script>
-  <script src="https://colorcodedlyrics.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/jetpack/_inc/build/photon/photon.min.js,wp-content/plugins/jetpack/modules/wpgroho.js,wp-content/themes/esfahan/js/vendor/touch-keyboard-navigation.js,wp-content/themes/esfahan/js/vendor/skip-link-focus-fix.js,wp-content/themes/esfahan/js/vendor/scripts.js,wp-content/themes/esfahan/js/custom/custom.js,wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js,wp-content/plugins/jetpack/_inc/build/widgets/milestone/milestone.min.js,wp-content/plugins/wp-trending-post-slider-and-widget/assets/js/wtpsw-public.js,wp-includes/js/wp-embed.min.js" type="text/javascript">
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
   </script>
+  <script src="https://colorcodedlyrics.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/jetpack/_inc/build/photon/photon.min.js,wp-content/plugins/jetpack/modules/wpgroho.js,wp-content/themes/esfahan/js/vendor/touch-keyboard-navigation.js,wp-content/themes/esfahan/js/vendor/skip-link-focus-fix.js,wp-content/themes/esfahan/js/vendor/scripts.js,wp-content/themes/esfahan/js/custom/custom.js,wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js,wp-content/plugins/jetpack/_inc/build/widgets/milestone/milestone.min.js,wp-content/plugins/wp-trending-post-slider-and-widget/assets/js/wtpsw-public.js,wp-includes/js/wp-embed.min.js,wp-content/plugins/jetpack/modules/theme-tools/responsive-videos/responsive-videos.min.js,wp-content/plugins/jetpack/_inc/build/postmessage.min.js,wp-content/plugins/jetpack/_inc/build/jquery.jetpack-resize.min.js,wp-content/plugins/jetpack/_inc/build/likes/queuehandler.min.js,wp-content/plugins/wp-trending-post-slider-and-widget/assets/js/slick.min.js,wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js" type="text/javascript">
+  </script>
+  <iframe id="likes-master" name="likes-master" scrolling="no" src="https://widgets.wp.com/likes/master.html?ver=202024#ver=202024" style="display:none;">
+  </iframe>
+  <div id="likes-other-gravatars">
+   <div class="likes-text">
+    <span>
+     %d
+    </span>
+    bloggers like this:
+   </div>
+   <ul class="wpl-avatars sd-like-gravatars">
+   </ul>
+  </div>
   <script async="async" defer="defer" src="https://stats.wp.com/e-202024.js" type="text/javascript">
   </script>
   <script type="text/javascript">
    _stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'28385844',post:'0',tz:'-7',srv:'colorcodedlyrics.com'} ]);
-	_stq.push([ 'clickTrackerInit', '28385844', '0' ]);
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'28385844',post:'139074',tz:'-7',srv:'colorcodedlyrics.com'} ]);
+	_stq.push([ 'clickTrackerInit', '28385844', '139074' ]);
   </script>
  </body>
 </html>
+<!-- Dynamic page generated in 0.681 seconds. -->
