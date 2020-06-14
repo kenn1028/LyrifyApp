@@ -13,7 +13,7 @@ ElectronJS : https://www.electronjs.org/docs/tutorial/first-app#installing-elect
             https://www.youtube.com/watch?v=627VBkAhKTc
 Xojo : https://www.xojo.com/?utm_source=quora&utm_medium=content&utm_campaign=dev
 '''
-from PyQt5 import QtWidgets
+from PyQt5 import QtWidgets, uic
 from PyQt5.QtWidgets import QApplication, QMainWindow
 import sys
 
@@ -26,6 +26,12 @@ class PyQT_UI(QMainWindow):
         self.setGeometry(1200, 250, 450, 600)
         self.setWindowTitle("LyrifyApp")
         self.initUI()
+
+        wid = playerWidget()
+
+        self.grid = QtWidgets.QGridLayout()
+        self.grid.addWidget(wid,0,0)
+        self.frame.setLayout(self.grid)
 
     def initUI(self):
         self.label = QtWidgets.QLabel(self)
@@ -44,8 +50,12 @@ class PyQT_UI(QMainWindow):
     def update(self):
         self.label.adjustSize()
 
-def clicked():
-    print("clicked")
+class playerWidget(QtWidgets.QWidget):
+    def __init__(self):
+        #QtWidgets.QWidget.__init__(self)
+        super(playerWidget, self).__init__()
+        uic.loadUi("player_widget.ui", self)
+        self.show()
 
 def window():
     app = QApplication(sys.argv)
@@ -57,9 +67,15 @@ def window():
 ####-----int main()-----####
 
 spotify = SpotifyAPI()
-lyrics = ColorCodedLyrics(song_name = "", artist_name = "")
+lyrics = ColorCodedLyrics(song_name = "Airplane", artist_name = "IZONE")
 
 window()
+
+dict = lyrics.get_lyrics()
+
+with open('lyrics.txt', 'w', encoding = "utf-8") as w:
+    for n in dict:
+        w.write(dict[n])
 
 # spotify.get_scopes()
 # spotify.auth_code = input("Enter Code: ")

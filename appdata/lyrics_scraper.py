@@ -107,14 +107,14 @@ class ColorCodedLyrics(object):
         english_lyrics = parsed_data[2]
 
         lyrics = {
-            "romanization": romanized_lyrics,
-            "native": native_lyrics,
-            "english": english_lyrics
+            "romanization": str(romanized_lyrics),
+            "native": str(native_lyrics),
+            "english": str(english_lyrics)
         }
 
         # print(parsed_data[0])
         self.lyrics = lyrics
-        print(lyrics)
+        #print(lyrics)
         return lyrics
 
         # with open('html.txt', 'w', encoding = "utf-8") as w:
