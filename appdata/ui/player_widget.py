@@ -11,15 +11,13 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 
 class Ui_PlayerWidget(object):
-    def __init__(self, PlayerWidget):
-        self.PlayerWidget = PlayerWidget
-    #def setupUi(self, PlayerWidget):
+    def setupUi(self, PlayerWidget):
         PlayerWidget.setObjectName("PlayerWidget")
         PlayerWidget.setEnabled(True)
         PlayerWidget.resize(450, 150)
         PlayerWidget.setMinimumSize(QtCore.QSize(450, 0))
         PlayerWidget.setMaximumSize(QtCore.QSize(450, 150))
-        PlayerWidget.setGeometry(QtCore.QRect(0, 0, 450, 150))
+        PlayerWidget.setGeometry(QtCore.QRect(1200, 500, 450, 150))
         font = QtGui.QFont()
         font.setPointSize(7)
         font.setBold(False)

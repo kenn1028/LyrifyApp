@@ -195,10 +195,11 @@ class SpotifyAPI(object):
             'song_length':  datetime.timedelta(milliseconds=data["item"]["duration_ms"]),
             'song_progress': datetime.timedelta(milliseconds=data["progress_ms"])
         }
+        print('\n', parsed_data)
 
         r = requests.get(parsed_data["images"]["url"])
 
-        with open('ui\song_cover.png', 'wb') as w:
+        with open('song_cover.png', 'wb') as w:
             w.write(r.content)
 
         return parsed_data

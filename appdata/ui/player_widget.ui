@@ -166,7 +166,7 @@ background: rgb(179, 179, 179);
     <string>artist_name</string>
    </property>
   </widget>
-  <widget class="QFrame" name="song_image">
+  <widget class="QWidget" name="song_image" native="true">
    <property name="geometry">
     <rect>
      <x>0</x>
@@ -183,12 +183,25 @@ background: rgb(179, 179, 179);
 	background-color: rgb(154, 154, 154);
 }</string>
    </property>
-   <property name="frameShape">
-    <enum>QFrame::StyledPanel</enum>
-   </property>
-   <property name="frameShadow">
-    <enum>QFrame::Raised</enum>
-   </property>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>150</width>
+      <height>150</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>song_cover.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
   </widget>
   <widget class="QLabel" name="song_progress">
    <property name="geometry">
