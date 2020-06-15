@@ -75,7 +75,7 @@ class ColorCodedLyrics(object):
             if difference == name_offset:
                 try:
                     if len(name_result) < len(temp):
-                         song_link = search_results[n]["link"]
+                         song_url = search_results[n]["link"]
                          name_offset = difference
                 except:
                     pass
@@ -83,7 +83,7 @@ class ColorCodedLyrics(object):
                 song_url = search_results[n]["link"]
                 name_offset = difference
 
-        #print(song_url)
+        # print(song_url)
         self.song_url = song_url
         return song_url
 
@@ -97,6 +97,12 @@ class ColorCodedLyrics(object):
         soup = BeautifulSoup(html_content, "lxml")
 
         data = soup.find("table", attrs={'border':'0'})
+        if data == None:
+            return {
+                "romanization": None,
+                "native": None,
+                "english": None
+            }
 
         parsed_data = []
         for td in data.findAll("td"):

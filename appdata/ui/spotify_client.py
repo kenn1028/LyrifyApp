@@ -19,6 +19,7 @@ import datetime
 from urllib.parse import urlencode
 import webbrowser
 
+import math
 import json
 import requests
 # client_id = '835cea40f4bd4eec8809798ee62f1cf9'
@@ -177,7 +178,7 @@ class SpotifyAPI(object):
             "Authorization" : f"Bearer {self.access_token}"
         }
         r = requests.get(endpoint, headers = headers)
-        print(r.status_code)
+        # print(r.status_code)
 
         self.perform_refresh()
 
@@ -185,6 +186,21 @@ class SpotifyAPI(object):
             return {}
         #print(r.json())
         data = r.json()
+
+        def convertMillis(millis):
+            seconds = math.floor((millis/1000)%60)
+            minutes = math.floor((millis/(1000*60))%60)
+            hours = math.floor((millis/(1000*60*60))%24)
+
+            if len(str(seconds)) == 1:
+                if hours == 0:
+                    return f"{minutes}:0{seconds}"
+                return f"{hours}:{minutes}:0{seconds}"
+
+            if hours == 0:
+                return f"{minutes}:{seconds}"
+            return f"{hours}:{minutes}:{seconds}"
+
         parsed_data = {
             "title": data['item']['name'],
             "artist": data["item"]["artists"][0]["name"],
@@ -192,10 +208,11 @@ class SpotifyAPI(object):
             "images": data["item"]["album"]["images"][1],
             "track_id": data['item']['id'],
             'artist_id': data['item']['artists'][0]['id'],
-            'song_length':  datetime.timedelta(milliseconds=data["item"]["duration_ms"]),
-            'song_progress': datetime.timedelta(milliseconds=data["progress_ms"])
+            'song_length':  convertMillis(data["item"]["duration_ms"]),
+            'song_progress': convertMillis(data["progress_ms"])
         }
-        print('\n', parsed_data)
+
+        # print('\n', parsed_data)
 
         r = requests.get(parsed_data["images"]["url"])
 

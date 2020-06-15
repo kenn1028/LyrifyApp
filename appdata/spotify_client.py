@@ -185,6 +185,15 @@ class SpotifyAPI(object):
             return {}
         #print(r.json())
         data = r.json()
+
+        def convertMillis(millis):
+            seconds = round((millis/1000)%60, 2)
+            minutes = round((millis/1000*60))%60, 2)
+            hours = round((millis(1000*60*60))%24, 2)
+            if hours == 0:
+                return f"{minutes}:{seconds}"
+            return f"{hours}:{minutes}:{seconds}"
+
         parsed_data = {
             "title": data['item']['name'],
             "artist": data["item"]["artists"][0]["name"],
@@ -192,9 +201,20 @@ class SpotifyAPI(object):
             "images": data["item"]["album"]["images"][1],
             "track_id": data['item']['id'],
             'artist_id': data['item']['artists'][0]['id'],
-            'song_length':  datetime.timedelta(milliseconds=data["item"]["duration_ms"]),
-            'song_progress': datetime.timedelta(milliseconds=data["progress_ms"])
+            'song_length':  convertMillis(data["item"]["duration_ms"]),
+            'song_progress': convertMillis(data["progress_ms"])
         }
+
+        # parsed_data = {
+        #     "title": data['item']['name'],
+        #     "artist": data["item"]["artists"][0]["name"],
+        #     'album': data['item']['album']['name'],
+        #     "images": data["item"]["album"]["images"][1],
+        #     "track_id": data['item']['id'],
+        #     'artist_id': data['item']['artists'][0]['id'],
+        #     'song_length':  datetime.timedelta(milliseconds=data["item"]["duration_ms"]),
+        #     'song_progress': datetime.timedelta(milliseconds=data["progress_ms"])
+        # }
 
         r = requests.get(parsed_data["images"]["url"])
 
