@@ -216,8 +216,54 @@ class SpotifyAPI(object):
 
         r = requests.get(parsed_data["images"]["url"])
 
-        with open('song_cover.png', 'wb') as w:
-            w.write(r.content)
+        with open("song_cover.png", "rb") as image:
+            bytes = base64.b64encode(image.read())
+
+        with open("song_cover.png", "wb") as image:
+            if bytes != r.content:
+                image.write(r.content)
+
+        return parsed_data
+
+    def get_current_song_progress(self):
+        '''
+        Returns data of player's currently playing song
+
+        Note: access token requires 'user-read-currently-playing user-read-playback-state' scopes
+        '''
+        endpoint = 'https://api.spotify.com/v1/me/player/currently-playing'
+        headers = {
+            "Authorization" : f"Bearer {self.access_token}"
+        }
+        r = requests.get(endpoint, headers = headers)
+        # print(r.status_code)
+
+        self.perform_refresh()
+
+        if r.status_code not in range(200,299):
+            return {}
+        #print(r.json())
+        data = r.json()
+
+        def convertMillis(millis):
+            seconds = math.floor((millis/1000)%60)
+            minutes = math.floor((millis/(1000*60))%60)
+            hours = math.floor((millis/(1000*60*60))%24)
+
+            if len(str(seconds)) == 1:
+                if hours == 0:
+                    return f"{minutes}:0{seconds}"
+                return f"{hours}:{minutes}:0{seconds}"
+
+            if hours == 0:
+                return f"{minutes}:{seconds}"
+            return f"{hours}:{minutes}:{seconds}"
+
+        parsed_data = {
+            "title": data['item']['name'],
+            'song_length':  convertMillis(data["item"]["duration_ms"]),
+            'song_progress': convertMillis(data["progress_ms"])
+        }
 
         return parsed_data
 
