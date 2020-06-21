@@ -51,6 +51,7 @@ class SpotifyAPI(object):
 
     *relevant only
     '''
+
     def get_scopes(self):
         scopes = 'user-read-currently-playing user-read-playback-state playlist-read-private playlist-read-collaborative'
         params = urlencode({
@@ -127,6 +128,9 @@ class SpotifyAPI(object):
         self.access_token = access_token
         self.refresh_token = refresh_token
 
+        with open("tokens.txt", "w") as token:
+            token.write(f"{access_token} {refresh_token}")
+
         now = datetime.datetime.now()
         expires_in = token_response_data['expires_in'] #in seconds
         expires = now + datetime.timedelta(seconds=expires_in) #countsdown to 0
@@ -165,7 +169,7 @@ class SpotifyAPI(object):
     See: https://developer.spotify.com/documentation/web-api/reference/
     '''
 
-    ####---------------Playlist and Album Fetch Functions---------------####
+# ============================== Playlist and Album Fetch Functions ============================== #
 
     def get_current_song(self):
         '''
@@ -177,10 +181,12 @@ class SpotifyAPI(object):
         headers = {
             "Authorization" : f"Bearer {self.access_token}"
         }
+
+        self.perform_refresh()
+
         r = requests.get(endpoint, headers = headers)
         # print(r.status_code)
 
-        self.perform_refresh()
 
         if r.status_code not in range(200,299):
             return {}
@@ -235,13 +241,19 @@ class SpotifyAPI(object):
         headers = {
             "Authorization" : f"Bearer {self.access_token}"
         }
-        r = requests.get(endpoint, headers = headers)
-        # print(r.status_code)
 
         self.perform_refresh()
 
+        r = requests.get(endpoint, headers = headers)
+        # print(r.status_code)
+
+
         if r.status_code not in range(200,299):
-            return {}
+                return {
+                    "title":None,
+                    'song_length':  None,
+                    'song_progress': None
+                }
         #print(r.json())
         data = r.json()
 
@@ -283,10 +295,12 @@ class SpotifyAPI(object):
         headers = {
             "Authorization" : f"Bearer {self.access_token}"
         }
+
+        self.perform_refresh()
+
         r = requests.get(endpoint, headers = headers)
         # print(r.status_code)
 
-        self.perform_refresh()
 
         if r.status_code not in range(200,299):
             return {}
@@ -322,10 +336,12 @@ class SpotifyAPI(object):
         headers = {
             "Authorization" : f"Bearer {self.access_token}"
         }
+
+        self.perform_refresh()
+
         r = requests.get(endpoint, headers = headers)
         #print(r.status_code)
 
-        self.perform_refresh()
 
         if r.status_code not in range(200,299):
             return {}
@@ -359,10 +375,12 @@ class SpotifyAPI(object):
         headers = {
             "Authorization" : f"Bearer {self.access_token}"
         }
+
+        self.perform_refresh()
+
         r = requests.get(endpoint, headers = headers)
         #print(r.status_code)
 
-        self.perform_refresh()
 
         if r.status_code not in range(200,299):
             return {}
@@ -415,7 +433,7 @@ class SpotifyAPI(object):
 
         return song_list
 
-    ####---------------User Profile Fetch Functions---------------####
+#  ============================== User Profile Fetch Functions  ============================== #
 
     def get_current_profile(self):
         pass
@@ -423,7 +441,8 @@ class SpotifyAPI(object):
     def get_user_profile(self, user_id):
         pass
 
-    ####---------------Search Functions---------------####
+#  ============================== Search Functions  ============================== #
+
     # def get_resource(self, lookup_id, resource_type = "albums", version = "v1"):
     #     endpoint = f"https://api.spotify.com/{version}/{resource_type}/{lookup_id}"
     #     headers = self.get_resource_headers()
@@ -480,6 +499,17 @@ class SpotifyAPI(object):
 
     def perform_refresh(self):
         token_url = self.token_url
+
+        if self.refresh_token == None:
+            try:
+                with open('tokens.txt', 'r') as tokens:
+                    for lines in tokens:
+                        token = lines.split()
+                        #self.access_token = token[0]
+                        self.refresh_token = token[1]
+            except:
+                pass
+
         token_data = self.get_refresh_body()
         token_headers = self.get_token_headers()
 
@@ -502,6 +532,8 @@ class SpotifyAPI(object):
         self.access_token_did_expire = expires < now  #false if expires != 0
 
         return True
+
+#  ========================================================================================== #
 
 #### void main() ####
 

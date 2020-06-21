@@ -25,22 +25,144 @@ Xojo : https://www.xojo.com/?utm_source=quora&utm_medium=content&utm_campaign=de
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtGui import *
-from PyQt5.QtWidgets import *
-from PyQt5.QtCore import *
-# from PyQt5.QtCore import QThread
+from PyQt5.QtCore import QThread, QObject, pyqtSignal, pyqtSlot
+from threading import Thread
+import sys
+import time
+# from PyQt5.QtGui import *
+# from PyQt5.QtWidgets import *
+# from PyQt5.QtCore import *
 # from main_gui import UpdateThread
 from spotify_client import SpotifyAPI
 from lyrics_scraper import ColorCodedLyrics
-from threading import Thread
+# import worker
+
+#  ========================================================================================== #
+
+'''
+Notes:
+> change thread approach, avoid doing .request on update functions
+> reduce # of requests
+> lyrics fetching not separated in the thread
+
+
+
+A.) QThread
+    1.) Make new thread:
+        while True:
+            get_current_song
+            if ui song name != song name
+
+                Options:
+                    a.) .write() data into temp .txt (?)
+                    b.)
+
+                signal.emit(update_ui)
+
+B.) Python Threading
+    1.) Make new thread:
+        while True:
+            constantly checks and writes current_song data and lyrics on a temp .txt
+
+    2.) UI function reads off the temp .txt file
+            can use pyqtsignal to check for file updates so it doesn't need to check everytime
+
+    3.) Progress bar
+            using QThread might be the easiest way, or can also use pyqtsignal to read off the temp .txt file
+
+
+Features to be added (according to priority):
+
+> PyQtDesigner Changes
+    1.) Window size
+    - Resizable or fixed
+    2.)
+
+> Toggle language buttons
+
+> Profile picture button, and redirect to Spotify URL
+    - needs get_profile() functions in SpotifyAPI Class
+
+> App logo for main bar and taskbar
+
+> Aesthetics Changes
+    1.) Lyrics scroll bar - minimalist, flat
+    2.) Window bar -  hide/recolor
+    3.) Lyrics - font style and size
+    4.) Add Green accent on buttons/UI
+
+> Settings button
+    - Light mode (?)
+
+'''
+
+#  ========================================================================================== #
 
 class Ui_MainWindow(object):
+    # MainWindow = QtWidgets.QMainWindow()
     data = None
     song_name_ = None
     artist_name_ = None
     song_length_ = None
     song_progress_ = None
     lyrics = None
+
+    def __init__(self):
+        super().__init__()
+
+        self.obj = UpdateThread()
+        self.thread = QThread()
+
+        self.obj.signal.connect(self.update_player)
+
+        self.obj.moveToThread(self.thread)
+
+        self.obj.finished.connect(self.thread.quit)
+
+        self.thread.started.connect(self.obj.update)
+        # self.thread.started.connect(self.obj.update)
+
+        self.thread.start()
+
+    # def startThread(self):
+    #     self.myThread = UpdateThread()
+    #     self.myThread.signal.connect(self.update_player)
+    #     self.myThread.start()
+
+    # def __init__(self):
+    #     super().__init__()
+    #
+    #     # 1 - create Worker and Thread inside the Form
+    #     self.obj = worker.Worker()  # no parent!
+    #     self.thread = QThread()  # no parent!
+    #
+    #     # 2 - Connect Worker`s Signals to Form method slots to post data.
+    #     self.obj.song_update.connect(self.onIntReady)
+    #
+    #     # 3 - Move the Worker object to the Thread object
+    #     self.obj.moveToThread(self.thread)
+    #
+    #     # 4 - Connect Worker Signals to the Thread slots
+    #     self.obj.finished.connect(self.thread.quit)
+    #
+    #     # 5 - Connect Thread started signal to Worker operational slot method
+    #     self.thread.started.connect(self.obj.update)
+    #
+    #     # * - Thread finished signal will close the app if you want!
+    #     #self.thread.finished.connect(app.exit)
+    #
+    #     # 6 - Start the thread
+    #     self.thread.start()
+    #
+    #     # 7 - Start the form
+    #     self.setupUi(QtWidgets.QMainWindow())
+    #     # QtWidgets.QMainWindow().show()
+    #
+    # def onIntReady(self, i):
+    #     song_name = i
+    #     if self.song_name_ != song_name:
+    #         self.update_player()
+    #     #print(i)
 
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
@@ -247,8 +369,7 @@ class Ui_MainWindow(object):
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
-        self.update_player()
-        self.startThread()
+        # self.startThread()
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
@@ -268,39 +389,32 @@ class Ui_MainWindow(object):
             f"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"></p></body></html>"))
         self.romanjiButton.setText(_translate("MainWindow", "Romanized"))
 
-
-    def startThread(self):
-        self.myThread = UpdateThread()
-        self.myThread.signal.connect(self.update_player)
-        self.myThread.start()
-
     def update_player(self):
         _translate = QtCore.QCoreApplication.translate
-        # while True:
+
         data = spotify.get_current_song()
         song_name = data["title"]
         artist_name = data["artist"]
         song_length = data["song_length"]
-        # song_progress = data["song_progress"]
 
-        if ui.song_name_ != song_name:
+        self.label.setText(f"{artist_name}")
+        self.song_length.setText(f"{song_length}")
+        self.song_name.setText(f"{song_name}")
+        self.label_3.setPixmap(QtGui.QPixmap("song_cover.png"))
+
+        if self.song_name_ != song_name:
             lyrics = ColorCodedLyrics(song_name = song_name, artist_name = artist_name).get_lyrics()
-            ui.lyrics = str(lyrics["native"])
-            ui.lyrics = ui.lyrics.replace('<td>', '').replace('</td>', '')
+            self.lyrics = str(lyrics["native"])
+            self.lyrics = self.lyrics.replace('<td>', '').replace('</td>', '')
 
-            ui.textEdit.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+            self.textEdit.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
             "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
             "p, li { white-space: pre-wrap; }\n"
             "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:7.8pt; font-weight:400; font-style:normal;\">\n"
-            f"<div class='centeralign'><span align=\"center\" style=\" color: '#c7c7c7'; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><center><br>{ui.lyrics}<br></center></span></div></body></html>"))
+            f"<div class='centeralign'><span align=\"center\" style=\" color: '#c7c7c7'; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><center><br>{self.lyrics}<br></center></span></div></body></html>"))
 
-            ui.label.setText(f"{artist_name}")
-            ui.song_length.setText(f"{song_length}")
-            ui.song_name.setText(f"{song_name}")
-            ui.label_3.setPixmap(QtGui.QPixmap("song_cover.png"))
-
-            ui.song_name_ = song_name
-            # self.signal.emit(0)
+            self.song_name_ = song_name
+            time.sleep(1)
 
         # value = int((float(song_progress.replace(':', '.'))/float(song_length.replace(':', '.'))) * 100)
         # ui.song_progress.setText(f"{song_progress}")
@@ -314,47 +428,68 @@ class Ui_MainWindow(object):
         self.song_progress.setText(f"{song_progress}")
         self.song_progressBar.setProperty("value", value)
 
-class UpdateThread(QThread):
-    signal = pyqtSignal(int)
+class UpdateThread(QObject):
+    signal = pyqtSignal()
+    finished = pyqtSignal()
 
-    # def __init__(self):
-    #     QThread.__init__(self)
-    #
-    # def __del__(self):
-    #     self.wait()
-
-    # @pyqtSlot()
-    def run(self):
-        # _translate = QtCore.QCoreApplication.translate
-
+    @pyqtSlot()
+    def update(self):
         while True:
             data = spotify.get_current_song_progress()
             song_name = data["title"]
-        # #     artist_name = data["artist"]
-        #     song_length = data["song_length"]
-        #     song_progress = data["song_progress"]
 
             if ui.song_name_ != song_name:
-                self.signal.emit(0)
+                self.signal.emit()
+                time.sleep(1)
 
+            self.finished.emit()
+            time.sleep(1)
 
-if __name__ == "__main__":
-    import sys
-    import time
+#  ========================================================================================== #
 
-    spotify = SpotifyAPI()
+# class Worker(QObject):
+#     finished = pyqtSignal()
+#     song_update = pyqtSignal(str)
+#     ui = Ui_MainWindow()
+#
+#     @pyqtSlot()
+#     def update(self):
+#         while True:
+#             data = spotify.get_current_song_progress()
+#             # print(data)
+#             song_name = data["title"]
+#
+#             if ui.song_name_ != song_name:
+#                 self.song_update.emit(song_name)
+#                 self.finished.emit()
+#
+#     # def procCounter(self): # A slot takes no params
+#     #     for i in range(1, 100):
+#     #         time.sleep(1)
+#     #         self.intReady.emit(i)
+#     #
+#     #     self.finished.emit()
 
+#  ========================================================================================== #
+
+spotify = SpotifyAPI()
+
+try:
+    spotify.perform_refresh()
+except:
     spotify.get_scopes()
     spotify.auth_code = input("Enter Code: ")
     spotify.perform_auth()
 
-    app = QtWidgets.QApplication(sys.argv)
-    MainWindow = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow()
-    ui.setupUi(MainWindow)
-    MainWindow.show()
-    # ui.myThread.start()
-    timer = QtCore.QTimer()
-    timer.timeout.connect(ui.update_progress)
-    timer.start(1000)
-    sys.exit(app.exec_())
+# if __name__ == "__main__":
+app = QtWidgets.QApplication(sys.argv)
+MainWindow = QtWidgets.QMainWindow()
+ui = Ui_MainWindow()
+ui.setupUi(MainWindow)
+MainWindow.show()
+# ui.startThread()
+# ui.myThread.start()
+# timer = QtCore.QTimer()
+# timer.timeout.connect(ui.update_progress)
+# timer.start(1100)
+sys.exit(app.exec_())

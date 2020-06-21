@@ -1,53 +1,62 @@
-<td><span style="color: #ff00ff">Let’s go</span>
-<p>많은 사람 속에 You<br/>
-너 하나만 보여 <span style="color: #ff00ff">You-You-You-You</span><br/>
-넓은 그 어깨로 다가와 날 감싸줘<br/>
-<span style="color: #ff00ff">날 꼭 좀 더 가까이 You</span></p>
-<p><span style="color: #008080">창 밖을 바라봐봐</span><br/>
-<span style="color: #008080"> 밤새 하얗게 물든 세상 </span><br/>
-따라라따따 <span style="color: #008080">Oh whoa whoa~</span><br/>
-<span style="color: #008080"> 뛰노는 저 꼬마들</span><br/>
-<span style="color: #008080"> 마치 어릴 적 우리 같잖아</span><br/>
-따라라따따 <span style="color: #008080">Oh, oh, oh yeah</span></p>
-<p><span style="color: #ff6600">소복하게 가득 쌓여간</span><br/>
-<span style="color: #ff6600"> 저기 저 눈꽃처럼</span><br/>
-<span style="color: #ff00ff">온통 내 맘을 덮은 건</span> <span style="color: #ff6600">(Oh yeah)</span><br/>
-<span style="color: #ff00ff"> 바로 너야 너야 너야 너 Oh</span><br/>
-<span style="color: #ff6600">(아름다워 너야 너야 너)</span></p>
-<p>많은 사람 속에 You <span style="color: #008080">(Hey~)</span><br/>
-너 하나만 보여 <span style="color: #008080">You-You-You-You</span><br/>
-넓은 그 어깨로 다가와 날 감싸줘<br/>
-<span style="color: #008080">날 꼭 좀 더 가까이 You</span></p>
-<p><span style="color: #ff6600">어쩜 우리 둘 사이</span><br/>
-<span style="color: #ff6600"> 연인이 될 줄이야 Baby </span><br/>
-따라라따따<span style="color: #ff6600"> Oh whoa whoa~</span><br/>
-<span style="color: #ff6600"> 점점 울려 퍼지는<br/>
-네 심장은 내겐 종소리</span><br/>
-따라라따따 <span style="color: #ff6600">Just Feel the Beat</span></p>
-<p><span style="color: #ff00ff">내 차가운 손 끝 녹여준</span><br/>
-<span style="color: #ff00ff"> 너의 그 온기처럼</span><br/>
-<span style="color: #008080">한참 기다린 단 하나</span> <span style="color: #ff00ff">(Oh, oh, oh yeah)</span><br/>
-<span style="color: #008080"> 바로 너야 너야 너야 너 Ho</span></p>
-<p>많은 사람 속에 You <span style="color: #ff00ff">(C’mon, c’mon)</span><br/>
-<span style="color: #008080">(Oh yeah)</span> 너 하나만 보여 <span style="color: #ff6600">You-You-You-You</span><br/>
-넓은 그 어깨로 다가와 날 감싸줘<br/>
-<span style="color: #ff6600">날 꼭 조금 더 가까이 You</span></p>
-<p><span style="color: #ff00ff">꼭 기억해줘 Tonight</span><br/>
-<span style="color: #ff00ff"> 이 순간 온 맘 다해 약속할게</span><br/>
-<span style="color: #008080">너와의 설레는 첫 번째 Christmas</span><br/>
-<span style="color: #008080"> 내 기억 속에 간직할래</span></p>
-<p>너무 눈부신 새하얀 빛이<br/>
-<span style="color: #ff00ff">우리를 비춰와 로맨틱한 이 밤</span><br/>
-<span style="color: #008080">또 너무 설레는 하늘이 내린 선물</span><br/>
-<span style="color: #ff6600">It’s you 좀 더 가까이 You</span></p>
-<p>많은 사람 속에 You <span style="color: #ff00ff">(C’mon, c’mon yeah)</span><br/>
-<span style="color: #008080">(Oh yeah)</span> 너 하나만 보여 <span style="color: #ff6600">You-You-You-You</span><br/>
-<span style="color: #ff6600">(It’s you~)</span> <span style="color: #008080">(Oh yeah)</span><br/>
-넓은 그 어깨로 다가와 날 감싸줘<br/>
-<span style="color: #ff00ff">(너 하나만 보여~)</span><br/>
-<span style="color: #ff6600">날 꼭</span> <span style="color: #008080">좀 더 가까이 You</span></p>
-<p><span style="color: #008080">빠라빠라빠 <span style="color: #ff6600">(Hey yeah~)</span> 빠빠빠빠</span><br/>
-<span style="color: #ff00ff">Come on, come on, Bring the beat in</span><br/>
-<span style="color: #008080">Oh yeah~</span> <span style="color: #ff6600">Come on with me babe</span><br/>
-<span style="color: #ff00ff">Hey yeah, hoo~ 첫눈처럼 Kiss Oh-Oh-</span><br/>
-<span style="color: #ff6600">조금 더 가까이 You</span></p></td>
+<td><span style="color: #cc0000">(Oh oh oh hmm hmm)</span><br/>
+<span style="color: #cc0000">손 뻗어봐도 닿지 않아</span><br/>
+<span style="color: #cc0000">까마득한 이 거리 너를 향해 더 멀리 (Yeah)</span><br/>
+<span style="color: #1155cc">흘러가듯 한걸음 또 한걸음</span><br/>
+<span style="color: #ec008c">어둠 아래 저 깊이</span><br/>
+<span style="color: #ec008c">너를 향해 더 멀리 Oh yeah</span>
+<p><span style="color: #eeee01">아무도 없는 거리 위를 홀로 걸어</span><br/>
+<span style="color: #f76e1d">Oh yeah yeah yeah 넌</span><br/>
+<span style="color: #f76e1d">Oh yeah yeah yeah</span><br/>
+<span style="color: #900020">멈춘 시선 끝을 따라</span><br/>
+<span style="color: #900020">언제라도 여기 날 봐</span><br/>
+<span style="color: #860494">널 비춰줄게</span></p>
+<p><span style="color: #f9a27e">어두운 밤 머나먼 빛</span> <span style="color: #8c92ac">(Alright)</span><br/>
+<span style="color: #f9a27e">저 막막하고 아득한 세상을 넘어 너에게</span><br/>
+<span style="color: #8c92ac">우린 손을 잡고서 발걸음을 맞춰</span><br/>
+<span style="color: #ec008c">더 가까이 춤을 추듯이 꿈처럼 번져</span></p>
+<p><span style="color: #dadada">Du Du Du Du Du Du Ru Du Ru</span><br/>
+<span style="color: #dadada">Du Du Du Du Du Ru Du Ru</span><br/>
+<span style="color: #39bc9d">My Number 1</span><br/>
+<span style="color: #39bc9d">My Number 1</span></p>
+<p><span style="color: #dadada">Du Du Du Du Du Du Ru Du Ru</span><br/>
+<span style="color: #dadada">Du Du Du Du Du Ru Du Ru</span><br/>
+<span style="color: #8c92ac">My Number 1</span><br/>
+<span style="color: #8c92ac">My Number 1 (Yeah)</span></p>
+<p><span style="color: #ec008c">문득 누군가 느껴진다면<br/>
+고개를 들어줘</span> <span style="color: #39bc9d">(Oh no)</span><br/>
+<span style="color: #1155cc">고작 한 줌에 가려질 내가</span><br/>
+<span style="color: #1155cc">물들인 이 세상 Oh yeah</span><br/>
+<span style="color: #f76e1d">어느 하늘 아래 울고 있어도</span><br/>
+<span style="color: #cc0000">네 모습을 놓치지 않아 Oh 난</span></p>
+<p><span style="color: #8c92ac">아무도 없는 시간 속에 홀로 남아</span><br/>
+<span style="color: #f47089">Oh yeah yeah yeah 난</span><br/>
+<span style="color: #f47089">Oh yeah yeah yeah <span style="color: #cc0000">(Oh yeah yeah yeah 난)</span></span><br/>
+<span style="color: #eeee01">다시 까만 밤이 오면<br/>
+웅크린 그 어깰 감싸</span><br/>
+<span style="color: #f9a27e">위로해줄게</span></p>
+<p><span style="color: #860494">어두운 밤 머나먼 빛 <span style="color: #39bc9d">(Alright)</span></span><br/>
+<span style="color: #860494">저 막막하고 아득한 세상을 넘어 너에게</span><br/>
+<span style="color: #900020">우린 손을 잡고서 발걸음을 맞춰</span><br/>
+<span style="color: #1155cc">더 가까이 춤을 추듯이</span></p>
+<p><span style="color: #f9a27e">Huh 수많았던 날 혼자였대도</span><br/>
+<span style="color: #cc0000">나를 떠올려줄래</span><br/>
+<span style="color: #cc0000">언제라도 여기 있으니 (있으니)</span><br/>
+<span style="color: #eeee01">다시 어둠이 (어둠이)</span><br/>
+<span style="color: #900020">너를 찾아도 (찾아도)</span><br/>
+<span style="color: #860494">곁에 있을게</span> <span style="color: #1155cc">(곁에 있을게)</span></p>
+<p><span style="color: #ec008c">포근한 밤 따스한 빛 <span style="color: #8c92ac">(Alright)<span style="color: #f9a27e"><br/>
+(따스한 빛 Yeah)</span></span></span><br/>
+<span style="color: #ec008c">내 맘에 가득 번지는 온기를 전해 너에게<br/>
+</span><span style="color: #f9a27e">(온기를 전해 너에게)</span><br/>
+<span style="color: #f9a27e">우린 마주 보면서 그림자를 맞춰<br/>
+</span><span style="color: #900020">(그림자를 맞춰)</span><br/>
+<span style="color: #cc0000">더 천천히 꿈을 꾸듯이 이 밤을 건너</span><br/>
+<span style="color: #900020">(Oh oh)</span></p>
+<p><span style="color: #dadada">Du Du Du Du Du Du Ru Du Ru</span> <span style="color: #900020">(이 밤을 건너)</span><br/>
+<span style="color: #dadada">Du Du Du Du Du Ru Du Ru</span> <span style="color: #900020">(Hoo)</span><br/>
+<span style="color: #f47089">My Number 1</span><br/>
+<span style="color: #f47089">My Number 1 <span style="color: #f9a27e">(My number 1)</span></span></p>
+<p><span style="color: #dadada">Du Du Du Du Du Du Ru Du Ru</span><br/>
+<span style="color: #dadada">Du Du Du Du Du Ru Du Ru</span> <span style="color: #ec008c">(Hmm whoah)</span><br/>
+[<span style="color: #cc0000">Lip</span>/<span style="color: #ec008c">Hee</span>] My Number 1<br/>
+[<span style="color: #cc0000">Lip</span>/<span style="color: #ec008c">Hee</span>] My Number 1 (Yeah)</p></td>
