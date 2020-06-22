@@ -19,6 +19,7 @@ import datetime
 from urllib.parse import urlencode
 import webbrowser
 
+import math
 import json
 import requests
 # client_id = '835cea40f4bd4eec8809798ee62f1cf9'
@@ -50,6 +51,7 @@ class SpotifyAPI(object):
 
     *relevant only
     '''
+
     def get_scopes(self):
         scopes = 'user-read-currently-playing user-read-playback-state playlist-read-private playlist-read-collaborative'
         params = urlencode({
@@ -126,6 +128,9 @@ class SpotifyAPI(object):
         self.access_token = access_token
         self.refresh_token = refresh_token
 
+        with open("data/tokens.txt", "w") as token:
+            token.write(f"{access_token} {refresh_token}")
+
         now = datetime.datetime.now()
         expires_in = token_response_data['expires_in'] #in seconds
         expires = now + datetime.timedelta(seconds=expires_in) #countsdown to 0
@@ -164,7 +169,7 @@ class SpotifyAPI(object):
     See: https://developer.spotify.com/documentation/web-api/reference/
     '''
 
-    ####---------------Playlist and Album Fetch Functions---------------####
+# ============================== Playlist and Album Fetch Functions ============================== #
 
     def get_current_song(self):
         '''
@@ -176,50 +181,60 @@ class SpotifyAPI(object):
         headers = {
             "Authorization" : f"Bearer {self.access_token}"
         }
-        r = requests.get(endpoint, headers = headers)
-        print(r.status_code)
 
         self.perform_refresh()
 
+        r = requests.get(endpoint, headers = headers)
+        # print(r.status_code)
+
+
         if r.status_code not in range(200,299):
             return {}
-        #print(r.json())
+        # print(r.json())
         data = r.json()
 
         def convertMillis(millis):
-            seconds = round((millis/1000)%60, 2)
-            minutes = round((millis/1000*60))%60, 2)
-            hours = round((millis(1000*60*60))%24, 2)
+            seconds = math.floor((millis/1000)%60)
+            minutes = math.floor((millis/(1000*60))%60)
+            hours = math.floor((millis/(1000*60*60))%24)
+
+            if len(str(seconds)) == 1:
+                if hours == 0:
+                    return f"{minutes}:0{seconds}"
+                return f"{hours}:{minutes}:0{seconds}"
+
             if hours == 0:
                 return f"{minutes}:{seconds}"
             return f"{hours}:{minutes}:{seconds}"
 
         parsed_data = {
-            "title": data['item']['name'],
+            "song_name": data['item']['name'],
+            "song_link": data["item"]["external_urls"]["spotify"],
             "artist": data["item"]["artists"][0]["name"],
             'album': data['item']['album']['name'],
             "images": data["item"]["album"]["images"][1],
             "track_id": data['item']['id'],
             'artist_id': data['item']['artists'][0]['id'],
+            'artist_link': data['item']['artists'][0]['external_urls']['spotify'],
             'song_length':  convertMillis(data["item"]["duration_ms"]),
             'song_progress': convertMillis(data["progress_ms"])
         }
 
-        # parsed_data = {
-        #     "title": data['item']['name'],
-        #     "artist": data["item"]["artists"][0]["name"],
-        #     'album': data['item']['album']['name'],
-        #     "images": data["item"]["album"]["images"][1],
-        #     "track_id": data['item']['id'],
-        #     'artist_id': data['item']['artists'][0]['id'],
-        #     'song_length':  datetime.timedelta(milliseconds=data["item"]["duration_ms"]),
-        #     'song_progress': datetime.timedelta(milliseconds=data["progress_ms"])
-        # }
+        # print(parsed_data["song_link"], parsed_data["artist_link"])
+        # print('\n', parsed_data)
 
         r = requests.get(parsed_data["images"]["url"])
 
-        with open('ui\song_cover.png', 'wb') as w:
-            w.write(r.content)
+        try:
+            with open("data/song_cover.png", "rb") as image:
+                bytes = base64.b64encode(image.read())
+
+            with open("data/song_cover.png", "wb") as image:
+                if bytes != r.content:
+                    image.write(r.content)
+        except:
+            with open("data/song_cover.png", "wb") as image:
+                image.write(r.content)
 
         return parsed_data
 
@@ -239,10 +254,12 @@ class SpotifyAPI(object):
         headers = {
             "Authorization" : f"Bearer {self.access_token}"
         }
+
+        self.perform_refresh()
+
         r = requests.get(endpoint, headers = headers)
         # print(r.status_code)
 
-        self.perform_refresh()
 
         if r.status_code not in range(200,299):
             return {}
@@ -278,10 +295,12 @@ class SpotifyAPI(object):
         headers = {
             "Authorization" : f"Bearer {self.access_token}"
         }
+
+        self.perform_refresh()
+
         r = requests.get(endpoint, headers = headers)
         #print(r.status_code)
 
-        self.perform_refresh()
 
         if r.status_code not in range(200,299):
             return {}
@@ -315,10 +334,12 @@ class SpotifyAPI(object):
         headers = {
             "Authorization" : f"Bearer {self.access_token}"
         }
+
+        self.perform_refresh()
+
         r = requests.get(endpoint, headers = headers)
         #print(r.status_code)
 
-        self.perform_refresh()
 
         if r.status_code not in range(200,299):
             return {}
@@ -371,15 +392,52 @@ class SpotifyAPI(object):
 
         return song_list
 
-    ####---------------User Profile Fetch Functions---------------####
+#  ============================== User Profile Fetch Functions  ============================== #
 
     def get_current_profile(self):
-        pass
+        '''
+        Returns current user's profile link and saves the image
+        '''
+
+        endpoint = "https://api.spotify.com/v1/me"
+        headers = {
+            "Authorization" : f"Bearer {self.access_token}"
+        }
+
+        self.perform_refresh()
+
+        r = requests.get(endpoint, headers = headers)
+        #print(r.status_code)
+
+
+        if r.status_code not in range(200,299):
+            return {}
+
+        data = r.json()
+
+        profile_link = data["external_urls"]["spotify"]
+        image_link = data["images"][0]["url"]
+
+        r = requests.get(image_link)
+
+        try:
+            with open('data/profile_picture.png', 'rb') as image:
+                bytes = base64.b64encode(image.read())
+
+            with open('data/profile_picture.png', 'wb') as image:
+                if bytes != r.content:
+                    image.write(r.content)
+        except:
+            with open('data/profile_picture.png', 'wb') as image:
+                image.write(r.content)
+
+        return profile_link
 
     def get_user_profile(self, user_id):
         pass
 
-    ####---------------Search Functions---------------####
+#  ============================== Search Functions  ============================== #
+
     # def get_resource(self, lookup_id, resource_type = "albums", version = "v1"):
     #     endpoint = f"https://api.spotify.com/{version}/{resource_type}/{lookup_id}"
     #     headers = self.get_resource_headers()
@@ -436,6 +494,17 @@ class SpotifyAPI(object):
 
     def perform_refresh(self):
         token_url = self.token_url
+
+        if self.refresh_token == None:
+            try:
+                with open('data/tokens.txt', 'r') as tokens:
+                    for lines in tokens:
+                        token = lines.split()
+                        #self.access_token = token[0]
+                        self.refresh_token = token[1]
+            except:
+                pass
+
         token_data = self.get_refresh_body()
         token_headers = self.get_token_headers()
 
@@ -458,6 +527,8 @@ class SpotifyAPI(object):
         self.access_token_did_expire = expires < now  #false if expires != 0
 
         return True
+
+#  ========================================================================================== #
 
 #### void main() ####
 

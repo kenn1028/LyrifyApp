@@ -36,11 +36,14 @@ class ColorCodedLyrics(object):
         self.song_name = song_name
         self.artist_name = artist_name
 
+#  ========================================================================================== #
+
     def get_url(self):
+        song_url = None
         query = urlencode({"s": f"{self.song_name} {self.artist_name}"})
         lookup_url = f"{self.search_url}?{query}"
 
-        #print(lookup_url)
+        print(lookup_url)
         #webbrowser.open(lookup_url)
 
         html_content = requests.get(lookup_url).text
@@ -49,6 +52,12 @@ class ColorCodedLyrics(object):
         data = soup.find_all("div", attrs={'class':'inner'})
 
         search_results = [] #gets search results
+
+        # if len(search_results) == 0:
+        #     print("Cannot find song.")
+        #     # self.song_url = None
+        #     return None
+
         for n in range(len(data)):
             search_results.append({
                 "name": data[n].find('h2', attrs={'class': 'entry-title'}).text,
@@ -58,8 +67,13 @@ class ColorCodedLyrics(object):
             # print('\n', data[n].find('h2', attrs={'class': 'entry-title'}).text)
             # print(data[n].find('a').get('href'), '\n')
 
+        # song_url = search_results[0]["link"] #returns first search result, faster
+        # self.song_url = song_url
+        # return song_url
 
-        #finds best match from search results; edge case: Jap. Ver songs published later than Kor. Ver
+        #finds best match from search results; edge case: Jap. Ver songs published later than Kor. Ver;
+        #NEW Edge Cases: GFriend - Love Whisper, IZONE - Secret Story of the Swan, MAMAMOO - Starry Night
+
         name_offset = 999
         name_inquiry = set(f"{self.artist_name} {self.song_name}".split())
 
@@ -75,7 +89,7 @@ class ColorCodedLyrics(object):
             if difference == name_offset:
                 try:
                     if len(name_result) < len(temp):
-                         song_link = search_results[n]["link"]
+                         song_url = search_results[n]["link"]
                          name_offset = difference
                 except:
                     pass
@@ -83,7 +97,7 @@ class ColorCodedLyrics(object):
                 song_url = search_results[n]["link"]
                 name_offset = difference
 
-        #print(song_url)
+        print(song_url)
         self.song_url = song_url
         return song_url
 
@@ -91,20 +105,45 @@ class ColorCodedLyrics(object):
         #     w.write(soup.prettify())
         # print(soup.prettify())
 
+#  ========================================================================================== #
+
     def get_lyrics(self):
         song_url = self.get_url()
+        if song_url == None:
+            # self.lyrics = None
+            return {
+                "romanization": "Lyrics could not be found.",
+                "native": "Lyrics could not be found.",
+                "english": "Lyrics could not be found."
+            }
+
         html_content = requests.get(self.song_url).text
         soup = BeautifulSoup(html_content, "lxml")
 
         data = soup.find("table", attrs={'border':'0'})
+        if data == None:
+            return {
+                "romanization": "Lyrics could not be found.",
+                "native": "Lyrics could not be found.",
+                "english": "Lyrics could not be found."
+            }
 
         parsed_data = []
         for td in data.findAll("td"):
             parsed_data.append(td)
 
-        romanized_lyrics = parsed_data[0]
-        native_lyrics = parsed_data[1]
-        english_lyrics = parsed_data[2]
+        try:
+            romanized_lyrics = parsed_data[0]
+            native_lyrics = parsed_data[1]
+            english_lyrics = parsed_data[2]
+        except:
+            if len(parsed_data) == 1:
+                native_lyrics = [0]
+                romanized_lyrics = "Lyrics could not be found."
+                english_lyrics = "Lyrics could not be found."
+            elif len(parsed_data) == 2:
+                romanized_lyrics = [0]
+                native_lyrics = [1]
 
         lyrics = {
             "romanization": str(romanized_lyrics),
@@ -112,13 +151,14 @@ class ColorCodedLyrics(object):
             "english": str(english_lyrics)
         }
 
+        # with open('lyrics.txt', 'w', encoding = "utf-8") as w:
+        #     w.write(lyrics["native"])
+
         # print(parsed_data[0])
-        self.lyrics = lyrics
+        # self.lyrics = lyrics
         #print(lyrics)
         return lyrics
 
-        # with open('html.txt', 'w', encoding = "utf-8") as w:
-        #     w.write(soup.prettify())
         # print(soup.prettify())
 
 

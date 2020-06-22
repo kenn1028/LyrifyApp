@@ -1,62 +1,19 @@
-<td><span style="color: #cc0000">(Oh oh oh hmm hmm)</span><br/>
-<span style="color: #cc0000">손 뻗어봐도 닿지 않아</span><br/>
-<span style="color: #cc0000">까마득한 이 거리 너를 향해 더 멀리 (Yeah)</span><br/>
-<span style="color: #1155cc">흘러가듯 한걸음 또 한걸음</span><br/>
-<span style="color: #ec008c">어둠 아래 저 깊이</span><br/>
-<span style="color: #ec008c">너를 향해 더 멀리 Oh yeah</span>
-<p><span style="color: #eeee01">아무도 없는 거리 위를 홀로 걸어</span><br/>
-<span style="color: #f76e1d">Oh yeah yeah yeah 넌</span><br/>
-<span style="color: #f76e1d">Oh yeah yeah yeah</span><br/>
-<span style="color: #900020">멈춘 시선 끝을 따라</span><br/>
-<span style="color: #900020">언제라도 여기 날 봐</span><br/>
-<span style="color: #860494">널 비춰줄게</span></p>
-<p><span style="color: #f9a27e">어두운 밤 머나먼 빛</span> <span style="color: #8c92ac">(Alright)</span><br/>
-<span style="color: #f9a27e">저 막막하고 아득한 세상을 넘어 너에게</span><br/>
-<span style="color: #8c92ac">우린 손을 잡고서 발걸음을 맞춰</span><br/>
-<span style="color: #ec008c">더 가까이 춤을 추듯이 꿈처럼 번져</span></p>
-<p><span style="color: #dadada">Du Du Du Du Du Du Ru Du Ru</span><br/>
-<span style="color: #dadada">Du Du Du Du Du Ru Du Ru</span><br/>
-<span style="color: #39bc9d">My Number 1</span><br/>
-<span style="color: #39bc9d">My Number 1</span></p>
-<p><span style="color: #dadada">Du Du Du Du Du Du Ru Du Ru</span><br/>
-<span style="color: #dadada">Du Du Du Du Du Ru Du Ru</span><br/>
-<span style="color: #8c92ac">My Number 1</span><br/>
-<span style="color: #8c92ac">My Number 1 (Yeah)</span></p>
-<p><span style="color: #ec008c">문득 누군가 느껴진다면<br/>
-고개를 들어줘</span> <span style="color: #39bc9d">(Oh no)</span><br/>
-<span style="color: #1155cc">고작 한 줌에 가려질 내가</span><br/>
-<span style="color: #1155cc">물들인 이 세상 Oh yeah</span><br/>
-<span style="color: #f76e1d">어느 하늘 아래 울고 있어도</span><br/>
-<span style="color: #cc0000">네 모습을 놓치지 않아 Oh 난</span></p>
-<p><span style="color: #8c92ac">아무도 없는 시간 속에 홀로 남아</span><br/>
-<span style="color: #f47089">Oh yeah yeah yeah 난</span><br/>
-<span style="color: #f47089">Oh yeah yeah yeah <span style="color: #cc0000">(Oh yeah yeah yeah 난)</span></span><br/>
-<span style="color: #eeee01">다시 까만 밤이 오면<br/>
-웅크린 그 어깰 감싸</span><br/>
-<span style="color: #f9a27e">위로해줄게</span></p>
-<p><span style="color: #860494">어두운 밤 머나먼 빛 <span style="color: #39bc9d">(Alright)</span></span><br/>
-<span style="color: #860494">저 막막하고 아득한 세상을 넘어 너에게</span><br/>
-<span style="color: #900020">우린 손을 잡고서 발걸음을 맞춰</span><br/>
-<span style="color: #1155cc">더 가까이 춤을 추듯이</span></p>
-<p><span style="color: #f9a27e">Huh 수많았던 날 혼자였대도</span><br/>
-<span style="color: #cc0000">나를 떠올려줄래</span><br/>
-<span style="color: #cc0000">언제라도 여기 있으니 (있으니)</span><br/>
-<span style="color: #eeee01">다시 어둠이 (어둠이)</span><br/>
-<span style="color: #900020">너를 찾아도 (찾아도)</span><br/>
-<span style="color: #860494">곁에 있을게</span> <span style="color: #1155cc">(곁에 있을게)</span></p>
-<p><span style="color: #ec008c">포근한 밤 따스한 빛 <span style="color: #8c92ac">(Alright)<span style="color: #f9a27e"><br/>
-(따스한 빛 Yeah)</span></span></span><br/>
-<span style="color: #ec008c">내 맘에 가득 번지는 온기를 전해 너에게<br/>
-</span><span style="color: #f9a27e">(온기를 전해 너에게)</span><br/>
-<span style="color: #f9a27e">우린 마주 보면서 그림자를 맞춰<br/>
-</span><span style="color: #900020">(그림자를 맞춰)</span><br/>
-<span style="color: #cc0000">더 천천히 꿈을 꾸듯이 이 밤을 건너</span><br/>
-<span style="color: #900020">(Oh oh)</span></p>
-<p><span style="color: #dadada">Du Du Du Du Du Du Ru Du Ru</span> <span style="color: #900020">(이 밤을 건너)</span><br/>
-<span style="color: #dadada">Du Du Du Du Du Ru Du Ru</span> <span style="color: #900020">(Hoo)</span><br/>
-<span style="color: #f47089">My Number 1</span><br/>
-<span style="color: #f47089">My Number 1 <span style="color: #f9a27e">(My number 1)</span></span></p>
-<p><span style="color: #dadada">Du Du Du Du Du Du Ru Du Ru</span><br/>
-<span style="color: #dadada">Du Du Du Du Du Ru Du Ru</span> <span style="color: #ec008c">(Hmm whoah)</span><br/>
-[<span style="color: #cc0000">Lip</span>/<span style="color: #ec008c">Hee</span>] My Number 1<br/>
-[<span style="color: #cc0000">Lip</span>/<span style="color: #ec008c">Hee</span>] My Number 1 (Yeah)</p></td>
+<td>
+<div id="pop_content">
+<div class="section_lyrics">
+<div class="show_lyrics" id="lyricText">
+<p>Starry starry night<br/>Starry starry night</p>
+<p><span style="color: #87cefa">까만 밤 왠지 어둡지 만은 않아</span><br/><span style="color: #87cefa">별빛이 거릴 가득 채우니</span><br/><span style="color: #dbd255">너와 나 우리 저만치 날아올라</span><br/><span style="color: #dbd255">유난히 따스해지는 기분</span></p>
+<p><span style="color: #ea1483">내 마음 속 작은 틈새로</span><br/><span style="color: #ea1483">울리는 네 목소리</span><br/><span style="color: #f7b7f0">Get louder louder</span><br/><span style="color: #f7b7f0">Get louder louder yeah</span><br/><span style="color: #5fd885">아침 햇살보다 더</span><br/><span style="color: #5fd885">빛나는 이 감정을</span><br/><span style="color: #eb6af2">이 순간 네게 전하고 파</span></p>
+<p>Starry night<br/><span style="color: #dbd255">별이 가득 쏟아지는 밤</span><br/>Starry night<br/><span style="color: #f7b7f0">꽃잎도 잠드는 시간</span><br/>Starry night<br/><span style="color: #5fd885">숨겨 왔던 나의 바람을</span><br/><span style="color: #5fd885">모두 다 털어놔</span><br/><span style="color: #5fd885">눈부신 이 밤</span></p>
+<p>Starry starry night<br/>Starry starry night<br/>Starry starry night<br/><span style="color: #ea1483">수줍은 내 고백들이</span><br/>Starry starry night<br/>Starry starry night<br/><span style="color: #87cefa">별빛처럼 네게 닿기를 바라</span></p>
+<p><span style="color: #eb6af2">아득한 하늘 아래</span><br/><span style="color: #eb6af2">오로지 서로 맘에 솔직해</span> (너도)<br/><span style="color: #ea1483">알고 있었겠지만</span><br/><span style="color: #ea1483">사실은 그보다 많이 좋아해</span></p>
+<p><span style="color: #f7b7f0">분주한 이 도시 속에서</span><br/><span style="color: #f7b7f0">네게 닿을 수 있게</span><br/><span style="color: #dbd255">Come closer closer</span><br/><span style="color: #dbd255">Come closer closer yeah</span><br/><span style="color: #87cefa">저기 우주보다 더</span><br/><span style="color: #87cefa">커지는 이 감정을</span><br/><span style="color: #5fd885">이 순간 네게 전하고 파</span></p>
+<p>Starry night<br/><span style="color: #eb6af2">별이 가득 쏟아지는 밤</span><br/>Starry night<br/><span style="color: #dbd255">꽃잎도 잠드는 시간</span><br/>Starry night<br/><span style="color: #f7b7f0">숨겨 왔던 나의 바람을</span><br/><span style="color: #f7b7f0">모두 다 털어놔</span><br/><span style="color: #f7b7f0">눈부신 이 밤</span></p>
+<p><span style="color: #ea1483">알고 싶어 네 진심을</span><br/><span style="color: #ea1483">꿈 속에선 볼 수 있을까</span><br/><span style="color: #87cefa">한 걸음 더 다가가면</span><br/><span style="color: #87cefa">만나게 될까</span></p>
+<p>Starry night<br/><span style="color: #5fd885">네 품 속에 잠들고픈 밤</span><br/>Stary night<br/><span style="color: #f7b7f0">우리들 함께한 시간</span><br/>Starry night<br/><span style="color: #eb6af2">간직했던 나의 마음을</span><br/><span style="color: #eb6af2">소중히 담아서</span><br/>[<span style="color: #eb6af2">혜</span>/<span style="color: #87cefa">주</span>] 너에게 줄게</p>
+<p>Starry starry night<br/>Starry starry night<br/>Starry starry night<br/><span style="color: #ea1483">수줍은 내 고백들이</span><br/>Starry starry night<br/>Starry starry night<br/><span style="color: #5fd885">별빛처럼 네게 닿기를 바라</span></p>
+</div>
+</div>
+</div>
+</td>
