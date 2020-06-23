@@ -185,8 +185,10 @@ class SpotifyAPI(object):
         self.perform_refresh()
 
         r = requests.get(endpoint, headers = headers)
-        # print(r.status_code)
+        print(r.status_code)
 
+        if r.status_code == 204:
+            raise ValueError("There is no song currently playing.")
 
         if r.status_code not in range(200,299):
             return {}

@@ -11,6 +11,7 @@ Converting .ui to .py: type: 'pyuic5 -x file.ui -o file.py'
 
 References:
 https://stackoverflow.com/questions/6783194/background-thread-with-qthread-in-pyqt
+https://nikolak.com/pyqt-threading-tutorial/
 
 PS.
 ElectronJS : https://www.electronjs.org/docs/tutorial/first-app#installing-electron
@@ -41,24 +42,29 @@ from data.lyrics_scraper import ColorCodedLyrics
 
 '''
 Notes:
+
 > change thread approach, avoid doing .request on update functions - DONE
 > reduce # of requests - DONE
 > lyrics fetching not separated in the thread - DONE
 
+> double check for error handling
+> file opening existing user's profile if token.txt already exists and is run in a new system
+> initial authentication code dialogue box
+> build executable file, independent of console
 > improve search function in lyrics fetching to reduce time complexity
+
+
 
 Features to be added (according to priority):
 
 > PyQtDesigner Changes - DONE
     1.) Window size
     - Resizable or fixed
-
 > Toggle language buttons - DONE
-
 > Profile picture button, and redirect to Spotify URL - DONE
     - needs get_profile() functions in SpotifyAPI Class
+> App logo for main bar and taskbar - DONE
 
-> App logo for main bar and taskbar
 
 > Aesthetics Changes
     1.) Lyrics scroll bar - minimalist, flat - DONE(?), scrollbar background color issue
